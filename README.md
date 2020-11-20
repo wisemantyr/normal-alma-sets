@@ -4,7 +4,7 @@ normalizing exported Alma ILS sets of items for cross departmental spreadsheet p
 
 ## Available set fields:
 
-**unique to search + necessary**
+**unique to search and/or necessary**
 
 *possibly helpful and/or uncertain if repetitive values in other searches*
 
