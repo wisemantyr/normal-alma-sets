@@ -8,7 +8,7 @@ normalizing exported Alma ILS sets of items for cross departmental spreadsheet p
 
 *possibly helpful and/or uncertain if repetitive values in other searches*
 
-### Physical items
+#### Physical items
 - **Type / Creator / Imprint**
 - **Barcode**
 - Inventory Number
@@ -50,7 +50,7 @@ normalizing exported Alma ILS sets of items for cross departmental spreadsheet p
 - Holdings ID
 - **MMS ID**
 
-### Physical titles
+#### Physical titles
 - Type / Creator / Imprint
 - Subject
 - Series
@@ -69,7 +69,7 @@ normalizing exported Alma ILS sets of items for cross departmental spreadsheet p
 - Peer Reviewed
 - *MMS ID*
 
-## All titles
+#### All titles
 - Type / Creator / Imprint
 - Subject
 - Series
