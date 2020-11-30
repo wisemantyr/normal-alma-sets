@@ -19,24 +19,24 @@ lost_df["Modification Date"] = pd.to_datetime(lost_df["Modification Date"])
 lost_df["Due Date"] = pd.to_datetime(lost_df["Due Date"])
 
 #change date range
-nov_lost_df= lost_df.loc[lost_df["Modification Date"].dt.month >= 11]
+new_lost_df= lost_df.loc[lost_df["Modification Date"].dt.month >= 11]
 
 
-nov_lost_df["Modification Date"] = nov_lost_df["Modification Date"].dt.strftime('%d-%b')
-nov_lost_df["Due Date"] = nov_lost_df["Due Date"].dt.strftime('%d-%b')
+nnew_lost_df["Modification Date"] = new_lost_df["Modification Date"].dt.strftime('%d-%b')
+new_lost_df["Due Date"] = new_lost_df["Due Date"].dt.strftime('%d-%b')
 
 
-nov_lost_df["Type / Creator / Imprint"] = nov_lost_df["Type / Creator / Imprint"].str.replace(r"(Book By)", "")
-nov_lost_df["Type / Creator / Imprint"] = nov_lost_df["Type / Creator / Imprint"].str.replace(r"(Music By)","")
-nov_lost_df["Type / Creator / Imprint"] = nov_lost_df["Type / Creator / Imprint"].str.replace(r"[\(\[].*?[\)\]]","")
-nov_lost_df["Type / Creator / Imprint"] = nov_lost_df["Type / Creator / Imprint"].str.replace(r"[\d]","")
-nov_lost_df["Type / Creator / Imprint"] = nov_lost_df["Type / Creator / Imprint"].str.replace(r"[\)]","")
-nov_lost_df["Type / Creator / Imprint"] = nov_lost_df["Type / Creator / Imprint"].str.replace(r"[\.]","")
-nov_lost_df["Type / Creator / Imprint"] = nov_lost_df["Type / Creator / Imprint"].str.replace(r"[\,]", "")
+new_lost_df["Type / Creator / Imprint"] = new_lost_df["Type / Creator / Imprint"].str.replace(r"(Book By)", "")
+new_lost_df["Type / Creator / Imprint"] = new_lost_df["Type / Creator / Imprint"].str.replace(r"(Music By)","")
+new_lost_df["Type / Creator / Imprint"] = new_lost_df["Type / Creator / Imprint"].str.replace(r"[\(\[].*?[\)\]]","")
+new_lost_df["Type / Creator / Imprint"] = new_lost_df["Type / Creator / Imprint"].str.replace(r"[\d]","")
+new_lost_df["Type / Creator / Imprint"] = new_lost_df["Type / Creator / Imprint"].str.replace(r"[\)]","")
+new_lost_df["Type / Creator / Imprint"] = new_lost_df["Type / Creator / Imprint"].str.replace(r"[\.]","")
+new_lost_df["Type / Creator / Imprint"] = new_lost_df["Type / Creator / Imprint"].str.replace(r"[\,]", "")
 
 
-nov_final = nov_lost_df[["Barcode","title", "Type / Creator / Imprint", "Call Number","Permanent Location", "Material Type", "Copy ID", "Description", "Orders", "Requests", "Modification Date", "Due Date"]]
-nov_final = nov_final.rename(columns={"Type / Creator / Imprint": "Author"})
+new_final = new_lost_df[["Barcode","title", "Type / Creator / Imprint", "Call Number","Permanent Location", "Material Type", "Copy ID", "Description", "Orders", "Requests", "Modification Date", "Due Date"]]
+new_final = new_final.rename(columns={"Type / Creator / Imprint": "Author"})
 
 
-nov_final.to_csv("nov_final.csv")
+new_final.to_csv("new_final.csv")
