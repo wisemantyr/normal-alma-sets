@@ -22,7 +22,7 @@ lost_df["Due Date"] = pd.to_datetime(lost_df["Due Date"])
 new_lost_df= lost_df.loc[lost_df["Modification Date"].dt.month >= 11]
 
 
-nnew_lost_df["Modification Date"] = new_lost_df["Modification Date"].dt.strftime('%d-%b')
+new_lost_df["Modification Date"] = new_lost_df["Modification Date"].dt.strftime('%d-%b')
 new_lost_df["Due Date"] = new_lost_df["Due Date"].dt.strftime('%d-%b')
 
 
