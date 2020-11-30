@@ -3,8 +3,8 @@ import pandas as pd
 import os
 import re
 
-lost_path = "lost_results.csv" 
-lost_df = pd.read_csv(lost_path)
+lost_path = "../../downloads/results.xlsx" 
+lost_df = pd.read_excel(lost_path)
 
 all_null_cols = lost_df.columns[lost_df.isna().all()].tolist()
 
