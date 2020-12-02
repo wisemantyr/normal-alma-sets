@@ -21,7 +21,7 @@ These reports allow information across departments to be centralized and allow f
 
 
 
-## Available search set fields
+## Available set fields in our configuration of Alma
 Formatting key:
 
 **unique to search and/or necessary**
