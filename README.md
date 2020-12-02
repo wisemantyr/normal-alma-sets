@@ -1,5 +1,5 @@
 # normal-alma-sets
-This repository contain scripts for normalizing exported sets of items from [Alma Library Services Platform](https://exlibrisgroup.com/products/alma-library-services-platform/) to create reports of lost and missing items that can be shared with other library employees who do not use Alma.
+This repository contains python and VBA scripts for normalizing exported sets of items from [Alma Library Services Platform](https://exlibrisgroup.com/products/alma-library-services-platform/) to create reports of lost and missing items that can be shared with other library employees who do not use Alma.
 
 Alma [sets](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/050Administration/070Managing_Jobs/060Managing_Search_Queries_and_Sets) can be itemized or logical. The items in a set can be exported as an Excel sheet.
 
