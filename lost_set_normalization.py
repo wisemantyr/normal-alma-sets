@@ -18,8 +18,8 @@ lost_df["Copy ID"] = lost_df["Copy ID"].astype(int)
 lost_df["Modification Date"] = pd.to_datetime(lost_df["Modification Date"])
 lost_df["Due Date"] = pd.to_datetime(lost_df["Due Date"])
 
-#change date range
-new_lost_df= lost_df.loc[lost_df["Modification Date"].dt.month >= 11]
+#change month when necessary
+#new_lost_df= lost_df.loc[lost_df["Modification Date"].dt.month >= 11]
 
 
 new_lost_df["Modification Date"] = new_lost_df["Modification Date"].dt.strftime('%d-%b')

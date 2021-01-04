@@ -1,263 +1,277 @@
 ,Barcode,title,Author,Call Number,Permanent Location,Material Type,Copy ID,Description,Orders,Requests,Modification Date,Due Date
 0,33082012289335,Red Sister, Lawrence Mark ,F,Recreational Reading,Book,0,,0,0,08-Nov,16-Sep
 1,33082011802245,"Ways of making and knowing : the material culture of empirical knowledge / edited by Pamela H. Smith, Amy R. W. Meyers, and Harold J. Cook.", Smith Pamela H ,AZ101 .W39 2014,Books,Book,0,,0,0,08-Nov,16-Sep
-2,33082010912300,Publication manual of the American Psychological Association., American Psychological Association ,BF76.7 .P83 2010,Books,Book,0,,0,0,21-Nov,01-Oct
+2,33082012599170,Guide to programming for the digital humanities : lessons for introductory Python / Brian Kokensparger., Kokensparger Brian ,AZ105 .K65 2018,Books,Book,0,,0,0,07-Dec,12-Nov
 3,33082009480889,A life worth living : contributions to positive psychology / edited by Mihaly Csikszentmihalyi and Isabella Selega Csikszentmihalyi., Csikszentmihalyi Mihaly ,BF204.6 .L54 2006,Books,Book,0,,0,0,08-Nov,16-Sep
 4,33082009900084,"Oxford handbook of methods in positive psychology / edited by Anthony D. Ong, Manfred H.M. van Dulmen.", Ong Anthony D ,BF204.6 .O94 2007,Books,Book,0,,0,0,08-Nov,16-Sep
 5,33082012324017,A primer in positive psychology / Christopher Peterson., Peterson Christopher ,BF204.6 .P48 2006,Books,Book,0,,0,0,08-Nov,16-Sep
-7,33082007265324,Intimacy / edited by Lauren Berlant., Berlant Lauren Gail ,BF575.I5 I57 2000,Books,Book,0,,0,0,22-Nov,01-Oct
-10,33082008681917,Beauty : the invisible embrace / John O'Donohue., O'Donohue John ,BH301.P78 O36 2004,Books,Book,0,,0,0,08-Nov,16-Sep
-11,33082012602453,"Ethics in a crowded world : globalisation, human movement and professional ethics / edited by Vandra Harris, RMIT University, Australia.", Harris Vandra ,BJ1012 .E89447 2019,Books,Book,0,,0,0,22-Nov,01-Oct
-12,33082001332807,"Adonis, Attis, Osiris; studies in the history of Oriental religion.", Frazer James George ,BL310 .F75 1962,Books,Book,0,,0,0,22-Nov,01-Oct
-13,33082006634678,Living Zen. Pref. by Christmas Humphreys. Foreword by R. Godel. Translated by Diana Abrahams-Curiel., Linssen Robert ,BL1442.Z4 L53 1960,Books,Book,0,,0,0,08-Nov,16-Sep
-16,33082009906818,The misunderstood Jew : the Church and the scandal of the Jewish Jesus / Amy-Jill Levine., Levine Amy-Jill  : HarperSanFrancisco c,BM535 .L393 2006,Books,Book,0,,0,0,21-Nov,01-Oct
-17,33082012607528,Judaism and Jesus / by Zev Garber and Kenneth Hanson., Garber Zev ,BM620 .G37 2020,Books,Book,0,,0,0,22-Nov,01-Oct
-19,33082012601398,"Luther as heretic : ten Catholic responses to Martin Luther, 1518-1541 / edited by M. Patrick Graham and David Bagchi.", Graham M Patrick ,BR329 .L9513 2019,Books,Book,0,,0,0,22-Nov,01-Oct
-21,33082009338251,There is no crime for those who have Christ : religious violence in the Christian Roman Empire / Michael Gaddis., Gaddis Michael ,BR1604.23 .G33 2005,Books,Book,0,,0,0,08-Nov,16-Sep
-22,33082012606561,"Linguistic coherence in biblical Hebrew texts : arrangement of information, participant reference devices, verb forms, and their contribution to textual segmentation and coherence / Lénart J. de Regt.", Regt L J de ,BS1136 .R44 2019,Books,Book,0,,0,0,21-Nov,01-Oct
-25,33082011973699,Epiphanius of Cyprus : imagining an orthodox world / Young Richard Kim., Kim Young Richard ,BX395.E65 K56 2015,Books,Book,0,,0,0,21-Nov,01-Oct
-26,33082007990806,"Mad for God : Bartolomé Sánchez, the secret Messiah of Cardenete / Sara Tilghman Nalle.", Nalle Sara Tilghman ,BX1735 .N35 2001,Books,Book,0,,0,0,08-Nov,16-Sep
-28,33082005961908,Karl Lamprecht : a German academic life (1856-1915) / Roger Chickering., Chickering Roger ,D15.L3 C45 1993,Books,Book,0,,0,0,21-Nov,01-Oct
-29,33082010026838,The 'Templar of Tyre' : Part III of the 'Deeds of the Cypriots' / [edtied by] Paul Crawford., Crawford Paul ,D177 .C4713 2003,Books,Book,0,,0,0,08-Nov,16-Sep
-30,33082007597056,Death in life : survivors of Hiroshima / by Robert Jay Lifton., Lifton Robert Jay ,D767.25.H6 L4 1967,Books,Book,0,,0,0,07-Nov,16-Sep
-31,33082007507642,Night / Elie Wiesel ; translated from the French by Stella Rodway ; foreword by Franc̦ois Mauriac ; preface for the twenty-fifth anniversary edition by Robert McAfee Brown., Wiesel Elie ,D810.J4 W513 1986,Books,Book,0,,0,0,08-Nov,16-Sep
-33,33082008850975,Allen Brown's English castles / R. Allen Brown., Brown R Allen ,DA660 .B85 2004,Books,Book,0,,0,0,22-Nov,01-Oct
-34,33082008831603,"The Jacobite movement in Scotland and in exile, 1746-1759 / Doron Zimmermann.", Zimmermann Doron ,DA813 .Z56 2003,Books,Book,0,,0,0,21-Nov,01-Oct
-35,33082011119160,Writing the Revolution : a French woman's history in letters / Lindsay A.H. Parker., Parker Lindsay A H ,DC146.J77 P37 2013,Books,Book,0,,0,0,08-Nov,16-Sep
-36,33082011034658,Monsters of the Gevaudan : the making of a beast / Jay M. Smith., Smith Jay M ,DC611.G4 S64 2011,Books,Book,0,,0,0,08-Nov,16-Sep
-37,33082010050713,"The Great War and urban life in Germany : Freiburg, 1914-1918 / Roger Chickering.", Chickering Roger ,DD901.F87 C45 2007,Books,Book,0,,0,0,21-Nov,01-Oct
-38,33082005476584,The Greeks : a portrait of self and others / Paul Cartledge., Cartledge Paul ,DF78 .C28 1993,Books,Book,0,,0,0,20-Nov,18-Sep
-42,33082003743274,"Behind the Urals, an American worker in Russia's city of steel.", Scott John  Houghton Mifflin ,DK781.M3 S35,Books,Book,0,,0,0,08-Nov,16-Sep
-45,33082012604533,"After ISIS : America, Iran and the struggle for the Middle East / Seth J. Frantzman.", Frantzman Seth J ,DS39.3 .F73 2019,Books,Book,0,,0,0,22-Nov,01-Oct
-46,33082005041560,"The kingdom of Cyprus and the Crusades, 1191-1374 / Peter W. Edbury.", Edbury P W  ; New York : Cambridge University Press ,DS54.6 .E33 1991,Books,Book,0,,0,0,08-Nov,16-Sep
-48,33082006346679,Studies in the medieval history of the Yemen and South Arabia / G. Rex Smith., Smith G Rex ,DS247.A27 S65 1997,Books,Book,0,,0,0,22-Nov,01-Oct
-49,33082009356493,The Persian Empire / Lindsay Allen., Allen Lindsay ,DS281 .A58 2005,Books,Book,0,,0,0,08-Nov,16-Sep
-51,33082006896970,Flexible citizenship : the cultural logics of transnationality / Aihwa Ong., Ong Aihwa ,DS732 .O54 1999,Books,Book,0,,0,0,08-Nov,16-Sep
-52,33082010323862,The search for modern China / Jonathan D. Spence., Spence Jonathan D ,DS754 .S65 1999,Books,Book,0,,0,0,08-Nov,16-Sep
-53,33082008659590,A modern history of Hong Kong / Steve Tsang., Tsang Steve Yui-Sang ,DS796.H757 T737 2004,Books,Book,0,,0,0,08-Nov,16-Sep
-54,33082006193220,"Egypt, the Aegean and the Levant : interconnections in the second millenium BC / edited by W. Vivian Davies and Louise Schofield.", Davies W V ,DT61 .E33 1995,Oversize Books,Book,0,,0,0,22-Nov,01-Oct
-55,33082012535430,When women ruled the world : six queens of Egypt / Kara Cooney., Cooney Kara ,DT83 .C66 2018,Books,Book,0,,0,0,08-Nov,16-Sep
-59,33082012366711,Stamped from the beginning : the definitive history of racist ideas in America / Ibram X. Kendi., Kendi Ibram X ,E185.61 .K358 2016,Books,Book,0,,0,0,08-Nov,16-Sep
-61,33082012474986,Chocolate City : a history of race and democracy in the nation's capital / Chris Myers Asch & George Derek Musgrove., Asch Chris Myers ,E185.93.D6 A78 2017,Books,Book,0,,0,0,08-Nov,16-Sep
-62,33082012387923,"The road to Jim Crow : the African American struggle on Maryland's Eastern Shore, 1860-1915 / C. Christopher Brown.", Brown C Christopher ,E185.93.M2 B86 2016,Books,Book,0,,0,0,22-Nov,01-Oct
-63,33082012591938,"A Brotherhood of Liberty : black Reconstruction and its legacies in Baltimore, 1865-1920 / Dennis Patrick Halpin.", Halpin Dennis Patrick ,E185.93.M2 H35 2019,Books,Book,0,,0,0,21-Nov,01-Oct
-64,33082003166559,Manchild in the promised land., Brown Claude ,E185.97.B86 A3,Books,Book,2,,0,0,08-Nov,16-Sep
-67,33082012475009,Civil War memories : contesting the past in the United States since 1865 / Robert J. Cook., Cook Robert J ,E468.9 .C559 2017,Books,Book,0,,0,0,07-Nov,16-Sep
-68,33082003635033,Calvin Coolidge; the quiet President [by] Donald R. McCoy., McCoy Donald R ,E792 .M117,Books,Book,2,,0,0,08-Nov,16-Sep
-71,33082003792388,Old Richmond neighborhoods / Mary Wingfield Scott., Scott Mary Wingfield ,F234.R5 S29,Books,Book,3,,0,0,08-Nov,16-Sep
-72,33082010769601,Nonesuch place : a history of the Richmond landscape / T. Tyler Potterfield ; foreword by Sarah Shields Driggs., Potterfield T Tyler ,F234.R54 P68 2009,Books,Book,0,,0,1,08-Nov,16-Sep
-73,33082008690843,"Race, class and power in the building of Richmond, 1870-1920 / Steven J. Hoffman.", Hoffman Steven J ,F234.R557 H64 2004,Books,Book,0,,0,0,08-Nov,16-Sep
-74,33082008097239,"Managing white supremacy : race, politics, and citizenship in Jim Crow Virginia / J. Douglas Smith.", Smith J Douglas ,F235.A1 S65 2002,Books,Book,0,,0,0,07-Nov,16-Sep
-75,33082012366885,The politics of resentment : rural consciousness in Wisconsin and the rise of Scott Walker / Katherine J. Cramer., Cramer Katherine J ,F586.2 .C73 2016,Books,Book,0,,0,0,08-Nov,16-Sep
-76,33082012570114,Fencing in democracy : necrocitizenship and the US-Mexico border wall / Miguel Díaz-Barriga and Margaret E. Dorsey., Díaz-Barriga Miguel ,F787 .D539 2020,Books,Book,0,,0,1,21-Nov,01-Oct
-77,33082002151123,"Sandino without frontiers : selected writings of Augusto Cesar Sandino on internationalism, Pan-Americanism, and social questions / with essays by Carlos Fonseca and Sergio Ramirez ; edited, annotated, and introduced by Karl Bermann ; translation by Karl Bermann ... [et al.].", Sandino Augusto César ,F1526.3 .S236 1988,Books,Book,0,,0,0,22-Nov,01-Oct
-78,33082006365364,How to lie with maps / Mark Monmonier., Monmonier Mark S ,G108.7 .M66 1996,Books,Book,0,,0,0,08-Nov,16-Sep
-79,33082005396378,Jedediah Hotchkiss : rebel mapmaker and Virginia businessman / by Peter W. Roper ; foreword by Archie P. McDonald., Roper Peter W ,GA407.H67 R67 1992,Books,Book,0,,0,0,08-Nov,16-Sep
-80,33082006553712,"Kinship, networks, and exchange / edited by Thomas Schweizer, Douglas R. White.", Schweizer Thomas  ; New York : Cambridge University Press ,GN487 .K54 1998,Books,Book,0,,0,0,08-Nov,16-Sep
-81,33082010366465,Ambiguous bodies : reading the grotesque in Japanese setsuwa tales / Michelle Osterfeld Li., Li Michelle Ilene Osterfeld ,GR340 .L5 2009,Books,Book,0,,0,0,21-Nov,01-Oct
-82,33082007043192,Women who run with the wolves : myths and stories of the wild woman archetype / Clarissa Pinkola Estes., Estés Clarissa Pinkola ,GR470 .E88 1992,Books,Book,0,,0,0,08-Nov,16-Sep
-83,33082006279003,"Costume since 1945 : couture, street style, and anti-fashion / Deirdre Clancy.", Clancy Steer Deirdre ,GT596 .C53 1996,Books,Book,0,,0,0,07-Nov,16-Sep
-84,33082011078192,"Fashion since 1900 / Valerie Mendes, Amy de la Haye.", Mendes Valerie D ,GT596 .M45 2010,Books,Book,0,,0,0,07-Nov,16-Sep
-85,33082009511246,The complete fashion sourcebook / John Peacock., Peacock John ,GT596 .P385 2005,Books,Book,0,,0,0,08-Nov,16-Sep
-86,33082010105434,Twentieth century dress in the United States / Jane Farrell-Beck and Jean Parsons., Farrell-Beck Jane ,GT615 .F35 2007,Books,Book,0,,0,0,07-Nov,16-Sep
-87,33082010380672,Fashionable clothing from the Sears catalogs : early 1960s with price guide / Tina Skinner., Skinner Tina ,GT615 .S575 2002,Books,Book,0,,0,0,08-Nov,16-Sep
-93,33082012384755,"Social theory now / edited by Claudio E. Benzecry, Monika Krause, and Isaac Ariail Reed.", Benzecry Claudio E ,H61 .S77524 2017,Books,Book,0,,0,0,22-Nov,01-Oct
-94,33082012420500,"Designing and conducting mixed methods research / John W. Creswell, Department of Family Medicine, University of Michigan ; Vicki L. Plano Clark, School of Education, University of Cincinnati.", Creswell John W ,H62 .C6962 2018,Books,Book,0,,0,0,22-Nov,01-Oct
-95,33082011698262,"Introduction to mediation, moderation, and conditional process analysis : a regression-based approach / Andrew F. Hayes.", Hayes Andrew F ,HA31.3 .H39 2013,Books,Book,0,,0,0,22-Nov,01-Oct
-96,33082009929927,"Games of strategy / Avinash Dixit, Susan Skeath.", Dixit Avinash K ,HB144 .D59 2004,Books,Book,0,,0,0,08-Nov,16-Sep
-97,33082011766135,"Africa's development in historical perspective / edited by Emmanuel Akyeampong (Harvard University), Robert H. Bates (Harvard University), Nathan Nunn (Harvard University), James A. Robinson (Harvard University).", Akyeampong Emmanuel Kwaku ,HC800 .A57255 2014,Books,Book,0,,0,0,21-Nov,01-Oct
-98,33082010327186,Dead aid : why aid is not working and how there is a better way for Africa / Dambisa Moyo., Moyo Dambisa ,HC800 .M69 2009,Books,Book,0,,0,0,08-Nov,16-Sep
-99,33082010256484,"Future savvy : identifying trends to make better decisions, manage uncertainty, and profit from change / Adam Gordon.", Gordon Adam ,HD30.27 .G67 2009,Books,Book,0,,0,0,22-Nov,01-Oct
-100,33082011563250,"Leading change / John P. Kotter, with a new preface by the author.", Kotter John P ,HD58.8 .K65 2012,Books,Book,0,,0,0,08-Nov,16-Sep
-101,33082011778767,"Zero to one : notes on startups, or how to build the future / Peter Thiel with Blake Masters.", Thiel Peter A ,HD62.5 .T525 2014,Books,Book,0,,0,0,08-Nov,16-Sep
-102,33082011070918,Shop class as soulcraft : an inquiry into the value of work / Matthew B. Crawford., Crawford Matthew B ,HD4824 .C73 2010,Books,Book,0,,0,0,08-Nov,16-Sep
-104,33082012526264,"Corporate ethics for turbulent markets : the market context of executive decisions / by Fr. Oswald A.J. Mascarenhas, S.J.", Mascarenhas Oswald A J ,HF5387 .M38 2018,Books,Book,0,,0,0,22-Nov,01-Oct
-106,33082000868777,Strategic marketing and the product life cycle / by Frederick D. Wiersema., Wiersema Frederik D  : Marketing Science Institute c,HF5415.155 .W53,Books,Book,0,,0,0,22-Nov,01-Oct
-107,33082011801254,Money : master the game : 7 simple steps to financial freedom / Tony Robbins., Robbins Anthony ,HG179 .R5455 2014,Books,Book,0,,0,0,22-Nov,01-Oct
-108,33082012596051,What it takes : lessons in the pursuit of excellence / Stephen A. Schwarzman., Schwarzman Stephen A ,HG4751 .S3445 2019,Books,Book,0,,0,0,22-Nov,01-Oct
-109,33082010147212,Finding the next Starbucks : how to identify and invest in the hot stocks of tomorrow / Michael Moe., Moe Michael ,HG4910 .M64 2006,Books,Book,0,,0,0,08-Nov,16-Sep
-110,33082011499562,The coming bond market collapse : how to survive the demise of the U.S. debt market / Michael G. Pento., Pento Michael G ,HG4910 .P426 2013,Books,Book,0,,0,0,08-Nov,16-Sep
-111,33082008081449,Modernity and self-identity : self and society in the late modern age / Anthony Giddens., Giddens Anthony ,HM131 .G398 1991,Books,Book,0,,0,0,21-Nov,01-Oct
-113,33082011701702,"Writing on the wall : social media, the first two thousand years / Tom Standage.", Standage Tom ,HM741 .S72 2013,Books,Book,0,,0,0,22-Nov,01-Oct
-114,33082010755097,Mapping Decline St. Louis and the Fate of the American City.,Book ,HN80.S2 G67 2009,Books,Book,0,,0,0,08-Nov,16-Sep
-115,33082012433388,"Nobody : casualties of America's war on the vulnerable, from Ferguson to Flint and beyond / Marc Lamont Hill.", Hill Marc Lamont ,HN90.S62 H55 2016,Books,Book,0,,0,0,22-Nov,01-Oct
-117,33082012421961,"Queer Maghrebi French : language, temporalities, transfiliations / Denis M. Provencher.", Provencher Denis M ,HQ75.7 .P76 2017,Books,Book,0,,0,0,22-Nov,01-Oct
-119,33082007189045,The Kama sutra of Vatsyayana : the classic Hindu treatise on love and social conduct / translated by Sir Richard F. Burton ; foreword by Santha Rama Rau ; introduction by John W. Spellman., Vātsyāyana ,HQ470.S3 V313 1991,Books,Book,0,,0,0,08-Nov,16-Sep
-120,33082001083780,Abortion and the politics of motherhood / Kristin Luker., Luker Kristin ,HQ767.5.U5 L84 1984,Books,Book,0,,0,0,08-Nov,16-Sep
-121,33082009004424,Giovanni and Lusanna : love and marriage in Renaissance Florence : with a new preface / Gene Brucker., Brucker Gene A ,HQ806 .B78 2005,Books,Book,0,,0,0,08-Nov,16-Sep
-124,33082012487285,"Feminist ethnography : thinking through methodologies, challenges, and possibilities / Dána-Ain Davis & Christa Craven.", Davis Dána-Ain ,HQ1190 .D385 2016,Books,Book,0,,0,0,22-Nov,01-Oct
-125,33082010838695,Half the sky : turning oppression into opportunity for women worldwide / Nicholas D. Kristof and Sheryl WuDunn., Kristof Nicholas D ,HQ1236.5.D44 K75 2009,Books,Book,3,,0,0,07-Nov,16-Sep
-126,33082007434862,Hooded Americanism : the history of the Ku Klux Klan / David M. Chalmers., Chalmers David Mark ,HS2330.K63 C5 1987,Books,Book,0,,0,0,07-Nov,16-Sep
-127,33082009330019,"Root shock : how tearing up city neighborhoods hurts America, and what we can do about it / Mindy Thompson Fullilove.", Fullilove Mindy Thompson ,HT123 .F79 2005,Books,Book,0,,0,0,08-Nov,16-Sep
-128,33082003247482,Garden cities of to-morrow. Edited with a pref. by F. J. Osborn. With an introductory essay by Lewis Mumford., Howard Ebenezer ,HT161 .H6 1965,Books,Book,2,,0,0,20-Nov,30-Sep
-129,33082008089053,Cities of tomorrow : an intellectual history of urban planning and design in the twentieth century / Peter Hall., Hall Peter ,HT166 .H349 2002,Books,Book,0,,0,0,20-Nov,30-Sep
-130,33082006314602,"Urban planning and the African American community : in the shadows / June Manning Thomas, Marsha Ritzdorf, editors.", Thomas June Manning ,HT167 .U7277 1997,Books,Book,0,,0,0,08-Nov,16-Sep
-131,33082007558090,Redevelopment and race : planning a finer city in postwar Detroit / June Manning Thomas., Thomas June Manning ,HT177.D4 T56 1997,Books,Book,0,,0,0,08-Nov,16-Sep
-133,33082012590344,The stranger beside me / by Ann Rule., Rule Ann ,HV6248.B773 R84 2018,Books,Book,0,,0,0,07-Nov,16-Sep
-134,33082012460118,In the mind of a female serial killer / Stephen Jakobi., Jakobi Stephen ,HV6517 .J35 2017,Books,Book,0,,0,0,22-Nov,01-Oct
-135,33082008221961,"The hanging of Ephraim Wheeler : a story of rape, incest, and justice in early America / Irene Quenzler Brown, Richard D. Brown.", Brown Irene Quenzler ,HV6565.M4 B76 2003,Books,Book,0,,0,0,08-Nov,16-Sep
-137,33082012369673,College in prison : reading in an age of mass incarceration / Daniel Karpowitz., Karpowitz Daniel ,HV8888.3.U62 N75 2017,Books,Book,0,,0,0,08-Nov,16-Sep
-138,33082012413018,Inside private prisons : an American dilemma in the age of mass incarceration / Lauren-Brooke Eisen., Eisen Lauren-Brooke ,HV9469 .E57 2018,Books,Book,0,,0,0,08-Nov,16-Sep
-139,33082009468439,Private prisons in America : a critical race perspective / Michael A. Hallett., Hallett Michael A ,HV9469 .H256 2006,Books,Book,0,,0,0,08-Nov,16-Sep
-140,33082008864372,"Measuring prison performance : government privatization and accountability / Gerald G. Gaes, ... [et al.].", Gaes Gerald G ,HV9469 .M43 2004,Books,Book,0,,0,0,08-Nov,16-Sep
-141,33082005157507,"Private prisons and the public interest / Douglas C. McDonald, editor.", McDonald Douglas ,HV9469 .P75 1990,Books,Book,0,,0,0,08-Nov,16-Sep
-142,33082005250468,"Privatizing correctional institutions / edited by Gary W. Bowman, Simon Hakim, Paul Seidenstat ; with a foreword by Warren Burger.", Bowman Gary W ,HV9469 .P76 1993,Books,Book,0,,0,0,08-Nov,16-Sep
-143,33082010767191,"Punishment for sale : private prisons, big business, and the incarceration binge / Donna Selman and Paul Leighton.", Selman Donna ,HV9469 .S45 2010,Books,Book,0,,0,0,08-Nov,16-Sep
-144,33082005700538,Punishment for profit : private prisons/public concerns / David Shichor ; foreword by Gilbert Geis., Shichor David ,HV9469 .S55 1995,Books,Book,0,,0,0,08-Nov,16-Sep
-145,33082000718261,"The story of the political philosophers, by George Catlin...", Catlin George Edward Gordon ,JA81 .C3,Books,Book,0,,0,0,22-Nov,01-Oct
-146,33082012568878,"The prince : a revised translation, backgrounds, interpretations / Niccolò Machiavelli ; edited and with a revised translation by Wayne A Rebhorn.", Machiavelli Niccolò ,JC143 .M3813 2020,Books,Book,0,,0,0,07-Nov,16-Sep
-149,33082012366448,Human rights or global capitalism : the limits of privatization / Manfred Nowak., Nowak Manfred ,JC571 .N67 2017,Books,Book,0,,0,0,08-Nov,16-Sep
-150,33082012592167,"The great broadening : how the vast expansion of the policy-making agenda transformed American politics / Bryan D. Jones, Sean M. Theriault, Michelle C. Whyman.", Jones Bryan D ,JK325 .J654 2019,Books,Book,0,,0,0,08-Nov,16-Sep
-151,33082012408653,The Trump phenomenon : how the politics of populism won in 2016 / by Peter Kivisto (Augustana College and St. Petersburg State University)., Kivisto Peter ,JK526 2016 .K58 2017,Books,Book,0,,0,0,08-Nov,16-Sep
-153,33082012362561,Duress : imperial durabilities in our times / Ann Laura Stoler., Stoler Ann Laura ,JV151 .S75 2016,Books,Book,0,,0,0,21-Nov,01-Oct
-154,33082010920592,Migra! : a history of the U.S. Border Patrol / Kelly Lytle Hernâandez., Hernandez Kelly Lytle ,JV6483 .H45 2010,Books,Book,0,,0,0,07-Nov,16-Sep
-155,33082012392063,In the name of women's rights : the rise of femonationalism / Sara R. Farris., Farris Sara R ,JV7590 .F368 2017,Books,Book,0,,0,0,21-Nov,01-Oct
-156,33082010109105,The political economy of grand strategy / Kevin Narizny., Narizny Kevin ,JZ1480 .N38 2007,Books,Book,0,,0,0,22-Nov,01-Oct
-157,33082010283728,The Tokyo war crimes trial : the pursuit of justice in the wake of World War II / Yuma Totani., Totani Yuma ,KZ1181 .T67 2008,Books,Book,1,,0,0,07-Nov,16-Sep
-158,33082009340950,"Faculty priorities reconsidered : rewarding multiple forms of scholarship / KerryAnn O'Meara, R. Eugene Rice ; foreword by Russell Edgerton.", O'Meara KerryAnn ,LA227.3 .O43 2005,Books,Book,0,,0,0,08-Nov,16-Sep
-161,33082010906450,Instructional rounds in education : a network approach to improving teaching and learning / Elizabeth A. City ... [et al.]., City Elizabeth A ,LB1032 .I493 2009,Books,Book,0,,0,0,21-Nov,01-Oct
-162,33082011550703,"Supervising practices for postgraduate research in art, architecture and design / edited by Brent Allpress ... [and others].", Allpress Brent ,LB2371 .S87 2012,Books,Book,0,,0,0,08-Nov,16-Sep
-163,33082011100798,The idea of the PhD : the doctorate in the twenty-first-century imagination / Frances Kelly., Kelly Frances ,LB2386 .K46 2017,Books,Book,0,,0,0,08-Nov,16-Sep
-164,33082012427133,"The new campus anti-rape movement : internet activism and social justice / Caroline Heldman, Alissa R. Ackerman, Ian Breckenridge-Jackson.", Heldman Caroline ,LB3610 .H45 2018,Books,Book,0,,0,0,22-Nov,01-Oct
-165,33082011056438,College student retention : formula for student success / [edited by] Alan Seidman., Seidman Alan ,LC148.2 .C65 2012,Books,Book,0,,0,0,08-Nov,16-Sep
-166,33082010887981,"The first-generation student experience : implications for campus practice, and strategies for improving persistence and success / Jeff Davis.", Davis Jeff ,LC148.2 .D38 2010,Books,Book,0,,0,0,08-Nov,16-Sep
-167,33082010769197,First in my family : a profile of first-generation college students at four-year institutions since 1971 / Victor B. Saenz ... [ et. al.] ; foreword by William E. Hamm & Michelle D. Gilliard., Saenz Victor B ,LC148.2 .F57 2007,Books,Book,0,,0,0,08-Nov,16-Sep
-169,33082009331702,"Challenging racism in higher education : promoting justice / Mark Chesler, Amanda Lewis, and James Crowfoot.", Chesler Mark A ,LC212.42 .C54 2005,Books,Book,0,,0,0,22-Nov,01-Oct
-170,33082011997318,Blackballed : the black and white politics of race on America's campuses / Lawrence Ross., Ross Lawrence C ,LC212.42 .R67 2016,Books,Book,0,,0,0,12-Nov,22-Sep
-171,33082011791224,"Yesterday, today, and tomorrow : school desegregation and resegregation in Charlotte / Roslyn Arlin Mickelson, Stephen Samuel Smith, Amy Hawn Nelson, editors.", Mickelson Roslyn Arlin ,LC212.523.C43 Y48 2015,Books,Book,0,,0,0,22-Nov,01-Oct
-172,33082010048477,"The trouble with Black boys : and other reflections on race, equity, and the future of public education / Pedro A. Noguera.", Noguera Pedro ,LC213.2 .N64 2008,Books,Book,0,,0,0,21-Nov,01-Oct
-175,33082009492389,Three cups of tea : one man's mission to fight terrorism and build nations-- one school at a time / Greg Mortenson and David Oliver Relin., Mortenson Greg ,LC2330 .M67 2006,Books,Book,0,,0,0,08-Nov,16-Sep
-176,33082009950063,Passing the torch : does higher education for the disadvantaged pay off across the generations? / Paul Attewell and David E. Lavin ; in collaboration with Thurston Domina and Tania Levey., Attewell Paul A ,LC4069.6 .A87 2007,Books,Book,0,,0,0,08-Nov,16-Sep
-177,33082012468624,"Clearing the path for first generation college students : qualitative and intersectional studies of educational mobility / edited by Ashley C. Rondini, Bedelia Nicola Richards, and Nicolas P. Simon ; afterword by Jenny Stuber.", Rondini Ashley C ,LC4069.6 .C65 2018,Books,Book,0,,0,0,08-Nov,16-Sep
-178,33082012591862,"First-generation college student research studies / [edited by] Terence Hicks, Douglas M. Butler, Mondrail Myrick.", Hicks Terence ,LC4069.6 .F57 2019,Books,Book,0,,0,0,08-Nov,16-Sep
-179,33082011047981,"Higher education and first-generation students : cultivating community, voice, and place for the new majority / Rashné Rustom Jehangir.", Jehangir Rashné Rustom ,LC4069.6 .J44 2010,Books,Book,0,,0,0,08-Nov,16-Sep
-180,33082004579891,"History of the University of Richmond, 1830-1971 / Reuben E. Alley.", Alley Reuben E ,LD4711.R42 A44,Books,Book,1,,0,0,08-Nov,16-Sep
-181,33082007993909,"Visualizing the nation : gender, representation, and revolution in eighteenth-century France / Joan B. Landes.", Landes Joan B ,N6846 .L344 2001,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
-182,33082010911328,Contemporary Chinese art : primary documents / edited by Wu Hung with the assistance of Peggy Wang., Wu Hung ,N7345 .C666 2010,Oversize Books,Book,0,,0,0,22-Nov,01-Oct
-183,33082010086451,"Built by Blacks : African American architecture and neighborhoods in Richmond / Selden Richardson ; editor and photographer, Maurice Duke.", Richardson Selden ,NA735.R5 R53 2008,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
-184,33082010788650,City building : nine planning principles for the twenty-first century / John Lund Kriken with Philip Enquist and Richard Rapaport., Kriken John Lund ,NA737.S53 K75 2010,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
-185,33082009903385,"Spaces of global cultures : architecture, urbanism, identity / Anthony D. King.", King Anthony D ,NA2543.G46 K55 2004,Oversize Books,Book,0,,0,0,20-Nov,30-Sep
-186,33082006623895,"A preliminary report on a capital expenditure program and administrative policy and practice / [consultants, Harland Bartholomew and Associates].", Harland Bartholomew & Associates ,NA9127.R5 H3 1944,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
-187,33082006623770,A preliminary report on a proposed civic center and the city's appearance ..., Harland Bartholomew & Associates ,NA9127.R5 H32 1944,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
-188,33082006623903,A preliminary report on housing conditions and policies ..., Harland Bartholomew & Associates ,NA9127.R5 H33 1943,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
-189,33082006623788,A preliminary report on land use and zoning ..., Harland Bartholomew & Associates ,NA9127.R5 H34 1942,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
-190,33082006623663,"A preliminary report on parks and schools / [consultants, Harland Bartholomew and Associates].", Harland Bartholomew & Associates ,NA9127.R5 H352 1944,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
-191,33082008173295,"A preliminary report on past, present and probable future population ...", Harland Bartholomew & Associates ,NA9127.R5 H355 1941,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
-192,33082006623598,A preliminary report on the background and character of the city ..., Harland Bartholomew & Associates ,NA9127.R5 H357 1941,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
-193,33082006623432,A preliminary report on transit facilities ..., Harland Bartholomew & Associates ,NA9127.R5 H372 1944,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
-194,33082006623556,A preliminary report on transportation facilities ..., Harland Bartholomew & Associates ,NA9127.R5 H375 1944,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
-195,33082006623424,The scope of the city plan ..., Harland Bartholomew & Associates ,NA9127.R5 H38 1941,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
-197,33082011714408,"Art and appetite : American painting, culture, and cuisine / edited by Judith A. Barter ; with essays by Judith A. Barter, Annelise K. Madsen, Sarah Kelly Oehler, and Ellen E. Roberts.", Barter Judith A ,ND1460.F64 A66 2013,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
-198,33082006557523,"Scenic art for the theatre : history, tools, and techniques / Susan Crabtree and Peter Beudert.", Crabtree Susan ,ND2885 .C73 1998,Oversize Books,Book,0,,0,0,07-Nov,16-Sep
-199,33082007110371,In good hands : the women of the Canadian Handicrafts Guild / Ellen Easton McLeod., McLeod Ellen Mary Easton ,NK841 .M344 1999,Oversize Books,Book,0,,0,0,22-Nov,01-Oct
-200,33082008929571,"Sexuality and gender in early modern Europe : institutions, texts, images / edited by James Grantham Turner.", Turner James ,NX180.F4 S488 1995,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
-202,33082007543902,Visualizations : the nature book of art and science / Martin Kemp., Kemp Martin ,NX180.S3 K46 2000,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
-203,33082012529615,"Straight talk about communication research methods / Christine S. Davis, Kenneth A. Lachlan, with contributor Robert Westerfelhaus.", Davis Christine S ,P91 .D367 2017,Books,Book,0,,0,0,21-Nov,01-Oct
-204,33082011815346,The marvelous clouds : toward a philosophy of elemental media / John Durham Peters., Peters John Durham ,P91 .P48 2015,Books,Book,0,,0,0,21-Nov,01-Oct
-205,33082012297049,Introduction to the speechmaking process / Raymond S. Ross., Ross Raymond S ,P95 .R675 2012,Books,Book,0,,0,0,22-Nov,01-Oct
-206,33082012521562,"Meander, spiral, explode : design and pattern in narrative / Jane Alison.", Alison Jane ,P302.7 .A515 2019,Books,Book,0,,0,0,22-Nov,01-Oct
-207,33082011656401,Huellas de las literaturas hispanoamericanas / John F. Garganigo ... [and others]., Garganigo John F ,PC4117 .H84 2002,Books,Book,0,,0,0,07-Nov,16-Sep
-209,33082009480079,Novel with cocaine / M. Ageyev ; translated by Michael Henry Heim., Agi͡eev M ,PG3476.A3164 R613 1998,Books,Book,0,,0,0,08-Nov,16-Sep
-211,33082008112749,Pushkin's children : writings on Russia and Russians / Tatyana Tolstaya ; translated by Jamey Gambrell ; [introduction by Alma Guillermoprieto]., Tolstai͡a Tatʹi͡ana ,PG3476.T58 A24 2003,Books,Book,0,,0,0,08-Nov,16-Sep
-212,33082008165911,The slynx / Tatyana Tolstaya ; translated by Jamey Gambrell., Tolstai͡a Tatʹi͡ana ,PG3476.T58 K9713 2003,Books,Book,1,,0,0,08-Nov,16-Sep
-214,33082003777199,The carnal prayer mat (Rou putuan) / Li Yu ; translated with an introduction and notes by Patrick Hanan., Li Yu ,PL2698.L52 J613 1990,Books,Book,0,,0,0,08-Nov,16-Sep
-215,33082012605894,"Character : three inquiries in literary studies / Amanda Anderson, Rita Felski, Toril Moi.", Anderson Amanda ,PN56.4 .C48 2019,Books,Book,0,,0,0,21-Nov,01-Oct
-217,33082010002714,"Electronic textual editing / edited by Lou Burnard, Katherine O'Brien O'Keeffe, and John Unsworth.", Burnard Lou ,PN162 .E55 2006,Books,Book,0,,0,0,08-Nov,16-Sep
-218,33082009014027,From dissertation to book / William Germano., Germano William P ,PN162 .G37 2005,Books,Book,0,,0,0,08-Nov,16-Sep
-219,33082001441665,Scholarly editing in the computer age : theory and practice / Peter L. Shillingsburg., Shillingsburg Peter L ,PN162 .S45 1986,Books,Book,0,,0,0,08-Nov,16-Sep
-220,33082012420716,"What editors do : the art, craft, and business of book editing / edited by Peter Ginna.", Ginna Peter ,PN162 .W465 2017,Books,Book,0,,0,0,08-Nov,16-Sep
-222,33082009341602,"The rhetorical tradition : readings from classical times to the present / edited by Patricia Bizzell, Bruce Herzberg.", Bizzell Patricia ,PN183 .R46 2001,Books,Book,0,,0,0,08-Nov,16-Sep
-223,33082010176484,"The world within : writers talk ambition, angst, aesthetics, bones, books, beautiful bodies, censorship, cheats, comics, darkness, democracy, death, exile, failure, guns, misery, muses, movies, old boys' network, Oprah, outcasts, sex, suicide, smoking, strippers, torture, Vietnam, VD, violence, and more.",Book ,PN452 .W67 2007,Books,Book,0,,0,0,08-Nov,16-Sep
-224,33082011001590,Film in the Middle East and North Africa : creative dissidence / edited by Josef Gugler., Gugler Josef ,PN1993.5.M53 F55 2011,Books,Book,0,,0,0,22-Nov,01-Oct
-225,33082011929154,Embodied cognition and cinema / edited by Maarten Coëgnarts and Peter Kravanja ; with a foreword by Mark Johnson., Coëgnarts Maarten ,PN1995 .E628 2015,Books,Book,0,,0,0,22-Nov,01-Oct
-226,33082011914651,"Free radicals [videorecording] : a history of experimental film / Sacrebleu Productions presents ; written by Pip Chodorov, Lucy Allwood ; produced by Ron Dyens, Aurélia Prévieu ; a Pip Chodorov film.",Visual material By Chodorov Pip ,PN1995.9.E96 F744 2012,DVDs,Other,0,,0,0,21-Nov,01-Oct
-227,33082012313911,"The magic box : the films of Shirley Clarke, 1929-1987 / producers, Dennis Doros and Amy Heller.",Visual material By Clarke Shirley  : Milestone Film & Video ,PN1995.9.E96 M34 2016,DVDs,Other,0,,0,0,21-Nov,01-Oct
-228,33082010201571,Blade runner [videorecording] / a Ladd Company released in association with Sir Run Run Shaw thru Warner Bros. ; Jerry Perenchio and Bud Yorkin present a Michael Deeley-Ridley Scott production ; produced by Michael Deeley ; screenplay by Hampton Fancher and David Peoples ; directed by Ridley Scott.,Visual material By Fancher Hampton ,PN1995.9.S26 B5335 2007,DVDs,Other,0,,0,0,27-Nov,08-Oct
-229,33082010946787,Casino [videorecording]/ Universal Pictures and Syalis D.A. & Légende Entreprises present ; a De Fina/Cappa production ; screenplay by Nicholas Pileggi & Martin Scorsese ; produced by Barbara De Fina ; directed by Martin Scorsese.,Visual material By Scorsese Martin ,PN1995.9.S87 C28 1998,DVDs,Other,0,,0,0,27-Nov,08-Oct
-232,33082011966735,"Bakhtin and theatre : dialogues with Stanislavsky, Meyerhold and Grotowski / Dick McCaw.", McCaw Dick ,PN2039 .M375 2016,Books,Book,0,,0,0,08-Nov,16-Sep
-233,33082009457945,"Theatre, body and pleasure / Simon Shepherd.", Shepherd Simon ,PN2039 .S54 2006,Books,Book,0,,0,0,08-Nov,16-Sep
-234,33082012590922,Political dramaturgies and theatre spectatorship : provocations for change / Liz Tomlin., Tomlin Liz ,PN2049 .T62 2019,Books,Book,0,,0,0,22-Nov,01-Oct
-235,33082005936934,Acting without agony : an alternative to the Method / Don Richardson ; with a foreword by Helen Hayes., Richardson Don ,PN2061 .R48 1994,Books,Book,0,,0,0,07-Nov,16-Sep
-236,33082010874971,The great acting teachers and their methods / by Richard Brestoff ; illustrations by Deborah Stevenson., Brestoff Richard ,PN2075 .B674 1995,Books,Book,0,v. 2,0,0,21-Nov,01-Oct
-237,33082011060505,The great acting teachers and their methods / by Richard Brestoff ; illustrations by Deborah Stevenson., Brestoff Richard ,PN2075 .B674 1995,Books,Book,0,v. 1,0,0,21-Nov,01-Oct
-238,33082008656182,Monologues for men by men / edited by Gary Garrison & Michael Wright., Garrison Gary ,PN2080 .M537 2002,Books,Book,0,v. 2,0,0,08-Nov,16-Sep
-239,33082012447156,Latinx theater in the times of neoliberalism / Patricia A. Ybarra., Ybarra Patricia A ,PN2270.H57 Y37 2018,Books,Book,0,,0,0,22-Nov,01-Oct
-242,33082006134836,"Christine de Pizan's Letter of Othea to Hector / translated with introduction, notes, and interpretive essay [by] Jane Chance.", Christine ,PQ1575.E5 E525 1990,Books,Book,0,,0,0,22-Nov,01-Oct
-243,33082009951137,Crosscurrents : transatlantic perspectives on early modern Hispanic drama / edited by Mindy Badía and Bonnie L. Gasior., Badía Mindy  : Bucknell University Press c,PQ7082.D7 C76 2006,Books,Book,0,,0,0,21-Nov,01-Oct
-245,33082006620115,"Fallenness in Victorian women's writing : marry, stitch, die, or do worse / Deborah Anna Logan.", Logan Deborah Anna ,PR115 .L64 1998,Books,Book,0,,0,0,22-Nov,01-Oct
-247,33082012281282,"A midsummer night's dream : an authoritative text, sources, criticism, adaptations / William Shakespeare ; edited by Grace Ioppolo.", Shakespeare William ,PR2827.A2 I6 2018,Books,Book,0,,0,0,08-Nov,16-Sep
-251,33082000937630,"Jane Austen, feminism and fiction / Margaret Kirkham.", Kirkham Margaret ,PR4038.F44 K57 1983,Books,Book,0,,0,0,08-Nov,16-Sep
-252,33082004952577,"Alice's adventures in Wonderland and Through the looking glass : nonsense, sense, and meaning / Donald Rackin.", Rackin Donald ,PR4611.A73 R34 1991,Books,Book,0,,0,0,08-Nov,16-Sep
-253,33082006193949,"Murdering to dissect : grave-robbing, Frankenstein and the anatomy literature / Tim Marshall.", Marshall Tim ,PR5397.F73 M35 1995,Books,Book,0,,0,0,21-Nov,01-Oct
-254,33082005262984,Rebecca / Daphne du Maurier., Du Maurier Daphne ,PR6007.U47 R43 1993,Books,Book,0,,0,0,08-Nov,16-Sep
-255,33082006493000,"Howards End : authoritative text, textual appendix, backgrounds and contexts, criticism / E.M. Forster ; edited by Paul B. Armstrong.", Forster E M ,PR6011.O58 H6 1998,Books,Book,0,,0,0,08-Nov,16-Sep
-256,33082000952514,Selected plays of Lennox Robinson / chosen and with an introduction by Christopher Murray., Robinson Lennox ,PR6035.O56 A6 1982,Books,Book,0,,0,0,08-Nov,16-Sep
-257,33082011484374,"The hobbit, or, There and back again / J.R.R. Tolkien.", Tolkien J R R ,PR6039.O32 H6 2012,Books,Book,0,,0,0,08-Nov,16-Sep
-258,33082009406801,Memories of ice / Steven Erikson., Erikson Steven ,PR9199.4.E745 M46 2005,Books,Book,0,,0,0,22-Nov,01-Oct
-259,33082011714143,"Four Arab American Plays : works by Leila Buck, Jamil Khoury, Yussef El Guindi, and Lameece Issaq & Jacob Kader / edited by Michael Malek Najjar ; afterword by Jamil Khoury.", Najjar Michael Malek ,PS508.A67 F68 2014,Books,Book,0,,0,0,08-Nov,16-Sep
-260,33082010408408,Satellite convulsions : poems from Tin house.,Book ,PS617 .S28 2008,Books,Book,0,,0,0,08-Nov,16-Sep
-261,33082010937513,"McSweeney's 23 : still going strong like Castro / editor, Dave Eggers.", Eggers Dave  : McSweeney's Quarterly Concern c,PS648.S5 M78 no. 23,Books,Book,0,,0,0,22-Nov,01-Oct
-262,33082012280953,"Moby-Dick : an authoritative text, contexts, criticism / Herman Melville ; edited by Hershel Parker.", Melville Herman ,PS2384 .M6 2018,Books,Book,0,,0,0,22-Nov,01-Oct
-268,33082001827178,"The Basil and Josephine stories, by F. Scott Fitzgerald. Edited with an introd. by Jackson R. Bryer and John Kuehl.", Fitzgerald F Scott ,PS3511.I9 B3x,Books,Book,0,,0,0,08-Nov,16-Sep
-269,33082009827030,"Pale horse, pale rider : three short novels / Katherine Anne Porter.", Porter Katherine Anne ,PS3531.O752 P3 1964,Books,Book,0,,0,0,08-Nov,16-Sep
-270,33082012427042,Atlas shrugged / Ayn Rand., Rand Ayn ,PS3535.A547 A94 2005,Books,Book,0,,0,0,08-Nov,16-Sep
-271,33082008776428,The annotated Charlotte's web / introduction and notes by Peter F. Neumeyer. Charlotte's web ; by E.B. White ; pictures by Garth Williams., Neumeyer Peter F ,PS3545.H5187 C536 1994,Books,Book,0,,0,0,08-Nov,16-Sep
-272,33082006020662,Mahabharata / by William Buck ; with an introduction by B.A. van Nooten ; illustrated by Shirley Triest., Buck William ,PS3552.U335 M3 1981,Books,Book,0,,0,0,08-Nov,16-Sep
-273,33082011966206,Loitering : new & collected essays / Charles D'Ambrosio., D'Ambrosio Charles ,PS3554.A469 A6 2014,Books,Book,0,,0,0,08-Nov,16-Sep
-274,33082011865044,The brief wondrous life of Oscar Wao / Junot Díaz., Díaz Junot ,PS3554.I259 B75 2007,Books,Book,0,,0,0,08-Nov,16-Sep
-275,33082002207545,Fefu and her friends : a play / by Maria Irene Fornes., Fornes Maria Irene ,PS3556.O7344 F43 1990,Books,Book,0,,0,0,08-Nov,16-Sep
-276,33082005249221,Negrophobia : an urban parable / Darius James., James Darius ,PS3560.A37887 N4 1993,Books,Book,0,,0,0,08-Nov,16-Sep
-278,33082009417584,The road / Cormac McCarthy., McCarthy Cormac ,PS3563.C337 R63 2006,Books,Book,0,,0,0,08-Nov,16-Sep
-279,33082005223093,Red Mars / Kim Stanley Robinson., Robinson Kim Stanley ,PS3568.O2893 R44 1993,Books,Book,0,,0,0,22-Nov,01-Oct
-281,33082011093225,"Novels & stories 1950-1962 / Kurt Vonnegut ; Sidney Offit, editor.", Vonnegut Kurt ,PS3572.O5 A6 2012,Books,Book,0,,0,0,08-Nov,16-Sep
-282,33082006392541,Timequake / Kurt Vonnegut., Vonnegut Kurt ,PS3572.O5 T56 1997,Books,Book,0,,0,0,07-Nov,16-Sep
-283,33082001605483,Conversations with Kurt Vonnegut / edited by William Rodney Allen., Vonnegut Kurt ,PS3572.O5 Z463 1988,Books,Book,0,,0,0,07-Nov,16-Sep
-284,33082011529442,Kurt Vonnegut : letters / edited and with an introduction by Dan Wakefield., Vonnegut Kurt ,PS3572.O5 Z48 2012,Books,Book,0,,0,0,07-Nov,16-Sep
-285,33082010927175,The windup girl / Paolo Bacigalupi., Bacigalupi Paolo ,PS3602.A3473 W56 2009,Books,Book,0,,0,0,21-Nov,01-Oct
-286,33082012466479,Here I am : a novel / Jonathan Safran Foer., Foer Jonathan Safran ,PS3606.O38 H47 2017,Books,Book,0,,0,0,08-Nov,16-Sep
-287,33082012540851,The river : a novel / by Peter Heller., Heller Peter ,PS3608.E454 R58 2019,Books,Book,0,,0,0,21-Nov,01-Oct
-288,33082011724639,The compleat purge / Trisha Low., Low Trisha  : Kenning Editions ,PS3612.O88 C66 2013,Books,Book,0,,0,0,08-Nov,16-Sep
-289,33082010794831,Call it what you want / Keith Lee Morris., Morris Keith Lee ,PS3613.O7735 C36 2010,Books,Book,0,,0,0,08-Nov,16-Sep
-290,33082012407051,There are more beautiful things than Beyoncé / Morgan Parker., Parker Morgan ,PS3616.A74547 A6 2017,Books,Book,0,,0,0,08-Nov,16-Sep
-291,33082001543304,Otherwise known as Sheila the Great., Blume Judy ,PZ7.B6265 Ot,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
-292,33082009408872,Diary of a worm / by Doreen Cronin ; pictures by Harry Bliss., Cronin Doreen ,PZ7.C88135 Di 2003,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
-295,33082012296520,"Everything, everything / Nicola Yoon ; illustrations by David Yoon.", Yoon Nicola ,PZ7.1.Y66 Ev 2015,Oversize Books,Book,0,,0,0,07-Nov,16-Sep
-296,33082003249793,"The lion, the witch and the wardrobe; a story for children. Illustrated by Pauline Baynes.", Lewis C S  tp ,PZ8.L48 Li,Oversize Books,Book,1,,0,0,07-Nov,16-Sep
-297,33082006679731,"The Lorax, by Dr. Seuss.", Seuss ,PZ8.3.G276 Lo,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
-298,33082008709072,The man who walked between the towers / Mordicai Gerstein., Gerstein Mordicai ,PZ9.5.P44 G47 2003,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
-302,33082012420039,Becoming Steve Jobs : the evolution of a reckless upstart into a visionary leader / Brent Schlender and Rick Tetzeli., Schlender Brent ,QA76.2.J63 S35 2016,Books,Book,0,,0,0,08-Nov,16-Sep
-304,33082012341235,"An introduction to statistical learning : with applications in R / Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani.", James Gareth ,QA276 .I585 2013,Books,Book,0,,0,1,22-Nov,01-Oct
-307,33082012378377,"Bayesian nonparametric data analysis / Peter Müller, Fernando Andréa Quintana, Alejandro Jara, Tim Hanson.", Müller Peter ,QA279.5 .B3888 2015,Books,Book,0,,0,0,22-Nov,01-Oct
-309,33082003942033,Planets beyond : discovering the outer solar system / Mark Littmann., Littmann Mark ,QB681 .L58 1988,Books,Book,0,,0,0,08-Nov,16-Sep
-310,33082012551577,"Chemistry : atoms first / Julia Burdge, College of Western Idaho, Jason Overby, College of Charleston.", Burdge Julia ,QD31.3 .B87 2018,Books,Book,0,,0,0,22-Nov,01-Oct
-315,33082011537007,Biostatistical analysis / Jerrold H. Zar., Zar Jerrold H ,QH323.5 .Z37 2010,Books,Book,0,,0,0,22-Nov,01-Oct
-316,33082012533484,Essential Genetics and Genomics / Daniel L. Hartl., Hartl Daniel L ,QH430 .H3732 2020,Books,Book,0,,0,0,22-Nov,01-Oct
-317,33082011452728,"The epigenetics revolution : how modern biology is rewriting our understanding of genetics, disease, and inheritance / Nessa Carey.", Carey Nessa ,QH450 .C37 2012,Books,Book,1,,0,0,08-Nov,16-Sep
-318,33082011801403,"Molecular biology of the gene / James D. Watson, Cold Spring Harbor Laboratory, Tania A. Baker, Massachusetts Institute of Technology, Stephen P. Bell, Massachusetts Institute of Technology, Alexander Gann, Cold Spring Harbor Laboratory, Michael Levine, University of California, Berkeley, Richard Losik, Harvard University.", Watson James D ,QH506 .M6627 2014,Books,Book,0,,0,0,22-Nov,01-Oct
-319,33082012392667,"Biological timekeeping : clocks, rhythms and behaviour / Vinod Kumar, editor.", Kumar Vinod ,QH527 .B54 2017,Books,Book,0,,0,0,22-Nov,01-Oct
-320,33082012571658,"Animaladies : gender, animals, and madness / edited by Lori Gruen and Fiona Probyn-Rapsey.", Gruen Lori ,QL85 .A5213 2019,Books,Book,0,,0,0,07-Nov,16-Sep
-321,33082008960030,Nature's body : gender in the making of modern science / Londa Schiebinger., Schiebinger Londa L ,QP81.5 .S35 2004,Books,Book,0,,0,0,08-Nov,16-Sep
-322,33082006361249,The body's edge : our cultural obsession with skin / Marc Lappe., Lappé Marc ,QP88.5 .L37 1996,Books,Book,0,,0,0,08-Nov,16-Sep
-326,33082008950957,Chemistry and biology of Hyaluronan / edited by Hari G. Garg and Charles A. Hales., Garg Hari G ,QP702.H8 C44 2004,Books,Book,0,,0,0,21-Nov,01-Oct
-327,33082011937546,"Black man in a white coat : a doctor's reflections on race and medicine / Damon Tweedy, M.D.", Tweedy Damon ,R154.T84 A3 2015,Books,Book,0,,0,0,12-Nov,22-Sep
-329,33082001926541,Sexual visions : images of gender in science and medicine between the eighteenth and twentieth centuries / Ludmilla Jordanova., Jordanova L J ,R723 .J628 1989,Books,Book,0,,0,0,08-Nov,16-Sep
-330,33082011777223,Being mortal : medicine and what matters in the end / Atul Gawande., Gawande Atul ,R726.8 .G39 2014,Books,Book,0,,0,0,08-Nov,16-Sep
-331,33082012324165,"Understanding health inequalities and justice : new conversations across the disciplines / edited by Mara Buchbinder, Michele Rivkin-Fish, and Rebecca L. Walker.", Buchbinder Mara ,RA395.A3 U473 2016,Books,Book,0,,0,0,21-Nov,01-Oct
-332,33082010408648,The checklist manifesto : how to get things right / Atul Gawande., Gawande Atul ,RA399.A1 G39 2010,Books,Book,0,,0,0,08-Nov,16-Sep
-333,33082012542402,"Public health 101 : improving community health / Richard Riegelman, Brenda Kirkwood.", Riegelman Richard K ,RA425 .R54 2019,Books,Book,0,,0,0,22-Nov,01-Oct
-334,33082010765138,Children and pollution : why scientists disagree / Colleen F. Moore., Moore Colleen F ,RA1225 .M667 2009,Books,Book,0,,0,0,08-Nov,16-Sep
-335,33082005908404,"Raising children toxic free : how to keep your child safe from lead, asbestos, pesticides, and other environmental hazards / Herbert L. Needleman and Philip J. Landrigan ; with a foreword by T. Berry Brazelton.", Needleman Herbert L ,RA1225 .N44 1994,Books,Book,0,,0,0,08-Nov,16-Sep
-337,33082011802617,Contemporary behavior therapy / Michael D. Spiegler., Spiegler Michael D ,RC489.B4 S68 2016,Books,Book,0,,0,0,22-Nov,01-Oct
-338,33082011960043,"The body keeps the score : brain, mind, and body in the healing of trauma / Bessel A. van der Kolk, M.D.", Van der Kolk Bessel A ,RC552.P67 V358 2015,Books,Book,0,,0,0,21-Nov,01-Oct
-339,33082011775748,Blood work : a tale of medicine and murder in the scientific revolution / Holly Tucker., Tucker Holly ,RM171 .T787 2012,Books,Book,0,,0,0,08-Nov,16-Sep
-340,33082011702486,"Intuitive eating / Evelyn Tribole, Elyse Resch.", Tribole Evelyn ,RM222.2 .T717 2012,Books,Book,0,,0,0,22-Nov,01-Oct
-341,33082011792552,A golden weed : tobacco and environment in the Piedmont South / Drew A. Swanson., Swanson Drew A ,SB273 .S93 2014,Books,Book,0,,0,0,08-Nov,16-Sep
-342,33082011808309,Concise computer vision : an introduction into theory and algorithms / Reinhard Klette., Klette Reinhard ,TA1634 .K54 2014,Books,Book,0,,0,0,22-Nov,01-Oct
-343,33082006613904,"Visions of modernity : representation, memory, time and space in the age of the camera / Scott McQuire.", McQuire Scott ,TR183 .M8 1998,Oversize Books,Book,0,,0,0,21-Nov,01-Oct
-344,33082010379971,Fashionable clothing from the Sears catalogs : late 1950s / Joy Shih., Shih Joy ,TT555 .S55 1997,Books,Book,0,,0,0,07-Nov,16-Sep
-345,33082010380037,Fashionable clothing from the Sears catalogs : mid 1950s / Tina Skinner., Skinner Tina ,TT555 .S55 2002,Books,Book,0,,0,0,07-Nov,16-Sep
-346,33082010381969,Fashionable clothing from the Sears catalogs : early 1950s / Desire Smith., Smith Desire ,TT555 .S62 1998,Books,Book,0,,0,0,08-Nov,16-Sep
-348,33082005551501,The newsletter handbook : how to write and publish newsletters / Wesley Dorsheimer., Dorsheimer Wesley ,Z286.N46 D67 1993,Books,Book,0,,0,0,08-Nov,16-Sep
-349,33082006800527,"Readers and writers in Cuba : a social history of print culture, 1830s-1990s / Pamela Maria Smorkaloff.", Smorkaloff Pamela María ,Z515.3.C9 S6613 1997,Books,Book,0,,0,0,22-Nov,01-Oct
-351,33082012284047,Caged in Winter, Walsh Brighton ,F,Recreational Reading,Book,0,,0,0,07-Nov,16-Sep
-352,33082012492483,Death of a She Devil, Weldon Fay ,F,Recreational Reading,Book,0,,0,0,07-Nov,16-Sep
+6,33082007265324,Intimacy / edited by Lauren Berlant., Berlant Lauren Gail ,BF575.I5 I57 2000,Books,Book,0,,0,0,22-Nov,01-Oct
+8,33082008681917,Beauty : the invisible embrace / John O'Donohue., O'Donohue John ,BH301.P78 O36 2004,Books,Book,0,,0,0,08-Nov,16-Sep
+9,33082012602453,"Ethics in a crowded world : globalisation, human movement and professional ethics / edited by Vandra Harris, RMIT University, Australia.", Harris Vandra ,BJ1012 .E89447 2019,Books,Book,0,,0,0,22-Nov,01-Oct
+10,33082010887080,Freedom and belief / Galen Strawson., Strawson Galen ,BJ1461 .S77 2010,Books,Book,0,,0,0,13-Dec,23-Nov
+11,33082001332807,"Adonis, Attis, Osiris; studies in the history of Oriental religion.", Frazer James George ,BL310 .F75 1962,Books,Book,0,,0,0,22-Nov,01-Oct
+12,33082006634678,Living Zen. Pref. by Christmas Humphreys. Foreword by R. Godel. Translated by Diana Abrahams-Curiel., Linssen Robert ,BL1442.Z4 L53 1960,Books,Book,0,,0,0,08-Nov,16-Sep
+15,33082009906818,The misunderstood Jew : the Church and the scandal of the Jewish Jesus / Amy-Jill Levine., Levine Amy-Jill  : HarperSanFrancisco c,BM535 .L393 2006,Books,Book,0,,0,0,21-Nov,01-Oct
+16,33082012607528,Judaism and Jesus / by Zev Garber and Kenneth Hanson., Garber Zev ,BM620 .G37 2020,Books,Book,0,,0,0,22-Nov,01-Oct
+18,33082000958966,"The lotus of the wonderful law; or, The lotus gospel, Saddharma pundarika sutra, Miao-fa lien hua ching, by W. E. Soothill ...", Soothill William Edward ,BQ2052.E5 S66 1930,Books,Book,0,,0,0,11-Dec,16-Sep
+19,33082006546237,Nirvana and other Buddhist felicities : utopias of the Pali imaginaire / Steven Collins., Collins Steven ,BQ4263 .C65 1998,Books,Book,0,,0,0,08-Dec,13-Nov
+20,33082012601398,"Luther as heretic : ten Catholic responses to Martin Luther, 1518-1541 / edited by M. Patrick Graham and David Bagchi.", Graham M Patrick ,BR329 .L9513 2019,Books,Book,0,,0,0,22-Nov,01-Oct
+22,33082009338251,There is no crime for those who have Christ : religious violence in the Christian Roman Empire / Michael Gaddis., Gaddis Michael ,BR1604.23 .G33 2005,Books,Book,0,,0,0,08-Nov,16-Sep
+23,33082012606561,"Linguistic coherence in biblical Hebrew texts : arrangement of information, participant reference devices, verb forms, and their contribution to textual segmentation and coherence / Lénart J. de Regt.", Regt L J de ,BS1136 .R44 2019,Books,Book,0,,0,0,21-Nov,01-Oct
+26,33082011973699,Epiphanius of Cyprus : imagining an orthodox world / Young Richard Kim., Kim Young Richard ,BX395.E65 K56 2015,Books,Book,0,,0,0,21-Nov,01-Oct
+27,33082007990806,"Mad for God : Bartolomé Sánchez, the secret Messiah of Cardenete / Sara Tilghman Nalle.", Nalle Sara Tilghman ,BX1735 .N35 2001,Books,Book,0,,0,0,08-Nov,16-Sep
+29,33082005961908,Karl Lamprecht : a German academic life (1856-1915) / Roger Chickering., Chickering Roger ,D15.L3 C45 1993,Books,Book,0,,0,0,21-Nov,01-Oct
+30,33082010026838,The 'Templar of Tyre' : Part III of the 'Deeds of the Cypriots' / [edtied by] Paul Crawford., Crawford Paul ,D177 .C4713 2003,Books,Book,0,,0,0,08-Nov,16-Sep
+31,33082001651669,"The Battle of Normandy, the Falaise Gap / James Lucas and James Barker.", Lucas James ,D756.5.F34 L8 1978,Books,Book,0,,0,0,02-Dec,13-Oct
+32,33082007597056,Death in life : survivors of Hiroshima / by Robert Jay Lifton., Lifton Robert Jay ,D767.25.H6 L4 1967,Books,Book,0,,0,0,07-Nov,16-Sep
+33,33082011494662,"Nuit et brouillard [videorecording] = Night and fog / une co-production Como Films, Argos Films, Cocinor and Janus Films ; producers, Anatole Dauman, Samy Halfon, Philippe Lifchitz ; text writer, Jean Cayrol ; director, Alain Resnais.",Visual material By Dauman Anatole  : Criterion Collection  c,D805.G3 N8 2003,DVDs,Other,0,,0,0,11-Dec,19-Nov
+34,33082007507642,Night / Elie Wiesel ; translated from the French by Stella Rodway ; foreword by Franc̦ois Mauriac ; preface for the twenty-fifth anniversary edition by Robert McAfee Brown., Wiesel Elie ,D810.J4 W513 1986,Books,Book,0,,0,0,08-Nov,16-Sep
+36,33082008850975,Allen Brown's English castles / R. Allen Brown., Brown R Allen ,DA660 .B85 2004,Books,Book,0,,0,0,22-Nov,01-Oct
+37,33082008831603,"The Jacobite movement in Scotland and in exile, 1746-1759 / Doron Zimmermann.", Zimmermann Doron ,DA813 .Z56 2003,Books,Book,0,,0,0,21-Nov,01-Oct
+38,33082011119160,Writing the Revolution : a French woman's history in letters / Lindsay A.H. Parker., Parker Lindsay A H ,DC146.J77 P37 2013,Books,Book,0,,0,0,08-Nov,16-Sep
+39,33082011034658,Monsters of the Gevaudan : the making of a beast / Jay M. Smith., Smith Jay M ,DC611.G4 S64 2011,Books,Book,0,,0,0,08-Nov,16-Sep
+40,33082010050713,"The Great War and urban life in Germany : Freiburg, 1914-1918 / Roger Chickering.", Chickering Roger ,DD901.F87 C45 2007,Books,Book,0,,0,0,21-Nov,01-Oct
+44,33082003743274,"Behind the Urals, an American worker in Russia's city of steel.", Scott John  Houghton Mifflin ,DK781.M3 S35,Books,Book,0,,0,0,08-Nov,16-Sep
+47,33082012604533,"After ISIS : America, Iran and the struggle for the Middle East / Seth J. Frantzman.", Frantzman Seth J ,DS39.3 .F73 2019,Books,Book,0,,0,0,22-Nov,01-Oct
+48,33082005041560,"The kingdom of Cyprus and the Crusades, 1191-1374 / Peter W. Edbury.", Edbury P W  ; New York : Cambridge University Press ,DS54.6 .E33 1991,Books,Book,0,,0,0,08-Nov,16-Sep
+50,33082006346679,Studies in the medieval history of the Yemen and South Arabia / G. Rex Smith., Smith G Rex ,DS247.A27 S65 1997,Books,Book,0,,0,0,22-Nov,01-Oct
+51,33082009356493,The Persian Empire / Lindsay Allen., Allen Lindsay ,DS281 .A58 2005,Books,Book,0,,0,0,08-Nov,16-Sep
+52,33082006896970,Flexible citizenship : the cultural logics of transnationality / Aihwa Ong., Ong Aihwa ,DS732 .O54 1999,Books,Book,0,,0,0,08-Nov,16-Sep
+53,33082010323862,The search for modern China / Jonathan D. Spence., Spence Jonathan D ,DS754 .S65 1999,Books,Book,0,,0,0,08-Nov,16-Sep
+54,33082008659590,A modern history of Hong Kong / Steve Tsang., Tsang Steve Yui-Sang ,DS796.H757 T737 2004,Books,Book,0,,0,0,08-Nov,16-Sep
+55,33082006193220,"Egypt, the Aegean and the Levant : interconnections in the second millenium BC / edited by W. Vivian Davies and Louise Schofield.", Davies W V ,DT61 .E33 1995,Oversize Books,Book,0,,0,0,22-Nov,01-Oct
+56,33082012535430,When women ruled the world : six queens of Egypt / Kara Cooney., Cooney Kara ,DT83 .C66 2018,Books,Book,0,,0,0,08-Nov,16-Sep
+60,33082008102039,Freedom dreams : the Black radical imagination / Robin D.G. Kelley., Kelley Robin D G ,E185 .K39 2002,Books,Book,0,,0,0,06-Dec,19-Oct
+61,33082012366711,Stamped from the beginning : the definitive history of racist ideas in America / Ibram X. Kendi., Kendi Ibram X ,E185.61 .K358 2016,Books,Book,0,,0,0,08-Nov,16-Sep
+63,33082012474986,Chocolate City : a history of race and democracy in the nation's capital / Chris Myers Asch & George Derek Musgrove., Asch Chris Myers ,E185.93.D6 A78 2017,Books,Book,0,,0,0,08-Nov,16-Sep
+64,33082012387923,"The road to Jim Crow : the African American struggle on Maryland's Eastern Shore, 1860-1915 / C. Christopher Brown.", Brown C Christopher ,E185.93.M2 B86 2016,Books,Book,0,,0,0,22-Nov,01-Oct
+65,33082012591938,"A Brotherhood of Liberty : black Reconstruction and its legacies in Baltimore, 1865-1920 / Dennis Patrick Halpin.", Halpin Dennis Patrick ,E185.93.M2 H35 2019,Books,Book,0,,0,0,21-Nov,01-Oct
+66,33082003166559,Manchild in the promised land., Brown Claude ,E185.97.B86 A3,Books,Book,2,,0,0,08-Nov,16-Sep
+69,33082011616181,"The War of 1812 [videorecording] / a film by Lawrence Hott and Diane Garey ; written by Ken Chowder ; a production of WNED-TV, Buffalo/Toronto and Florentine Films/Hott Productions, Inc., in association with WETA Washington, D.C.",Visual material By Hott Lawrence R  : PBS Distribution ,E354 .W372 2011,DVDs,Other,0,,0,0,06-Dec,05-Nov
+70,33082012475009,Civil War memories : contesting the past in the United States since 1865 / Robert J. Cook., Cook Robert J ,E468.9 .C559 2017,Books,Book,0,,0,0,07-Nov,16-Sep
+73,33082012446828,What you are getting wrong about Appalachia / Elizabeth Catte., Catte Elizabeth ,F217.A65 C37 2018,Books,Book,0,,0,0,07-Dec,12-Nov
+74,33082003792388,Old Richmond neighborhoods / Mary Wingfield Scott., Scott Mary Wingfield ,F234.R5 S29,Books,Book,3,,0,0,08-Nov,16-Sep
+75,33082010769601,Nonesuch place : a history of the Richmond landscape / T. Tyler Potterfield ; foreword by Sarah Shields Driggs., Potterfield T Tyler ,F234.R54 P68 2009,Books,Book,0,,0,1,08-Nov,16-Sep
+76,33082008690843,"Race, class and power in the building of Richmond, 1870-1920 / Steven J. Hoffman.", Hoffman Steven J ,F234.R557 H64 2004,Books,Book,0,,0,0,08-Nov,16-Sep
+77,33082008097239,"Managing white supremacy : race, politics, and citizenship in Jim Crow Virginia / J. Douglas Smith.", Smith J Douglas ,F235.A1 S65 2002,Books,Book,0,,0,0,07-Nov,16-Sep
+78,33082012570114,Fencing in democracy : necrocitizenship and the US-Mexico border wall / Miguel Díaz-Barriga and Margaret E. Dorsey., Díaz-Barriga Miguel ,F787 .D539 2020,Books,Book,0,,0,1,21-Nov,01-Oct
+79,33082006365364,How to lie with maps / Mark Monmonier., Monmonier Mark S ,G108.7 .M66 1996,Books,Book,0,,0,0,08-Nov,16-Sep
+80,33082005396378,Jedediah Hotchkiss : rebel mapmaker and Virginia businessman / by Peter W. Roper ; foreword by Archie P. McDonald., Roper Peter W ,GA407.H67 R67 1992,Books,Book,0,,0,0,08-Nov,16-Sep
+81,33082006553712,"Kinship, networks, and exchange / edited by Thomas Schweizer, Douglas R. White.", Schweizer Thomas  ; New York : Cambridge University Press ,GN487 .K54 1998,Books,Book,0,,0,0,08-Nov,16-Sep
+82,33082010366465,Ambiguous bodies : reading the grotesque in Japanese setsuwa tales / Michelle Osterfeld Li., Li Michelle Ilene Osterfeld ,GR340 .L5 2009,Books,Book,0,,0,0,21-Nov,01-Oct
+83,33082007043192,Women who run with the wolves : myths and stories of the wild woman archetype / Clarissa Pinkola Estes., Estés Clarissa Pinkola ,GR470 .E88 1992,Books,Book,0,,0,0,08-Nov,16-Sep
+84,33082006279003,"Costume since 1945 : couture, street style, and anti-fashion / Deirdre Clancy.", Clancy Steer Deirdre ,GT596 .C53 1996,Books,Book,0,,0,0,07-Nov,16-Sep
+85,33082011078192,"Fashion since 1900 / Valerie Mendes, Amy de la Haye.", Mendes Valerie D ,GT596 .M45 2010,Books,Book,0,,0,0,07-Nov,16-Sep
+86,33082009511246,The complete fashion sourcebook / John Peacock., Peacock John ,GT596 .P385 2005,Books,Book,0,,0,0,08-Nov,16-Sep
+87,33082010105434,Twentieth century dress in the United States / Jane Farrell-Beck and Jean Parsons., Farrell-Beck Jane ,GT615 .F35 2007,Books,Book,0,,0,0,07-Nov,16-Sep
+88,33082010380672,Fashionable clothing from the Sears catalogs : early 1960s with price guide / Tina Skinner., Skinner Tina ,GT615 .S575 2002,Books,Book,0,,0,0,08-Nov,16-Sep
+92,33082008978438,"The sport psych handbook / Shane Murphy, editor.", Murphy Shane M ,GV706.4 .S667 2005,Books,Book,0,,0,0,06-Dec,05-Nov
+94,33082005164628,"The New York Road Runners Club complete book of running / by Fred Lebow, Gloria Averbuch, and friends.", Lebow Fred ,GV1061 .N43 1992,Books,Book,0,,0,0,06-Dec,05-Nov
+96,33082012384755,"Social theory now / edited by Claudio E. Benzecry, Monika Krause, and Isaac Ariail Reed.", Benzecry Claudio E ,H61 .S77524 2017,Books,Book,0,,0,0,22-Nov,01-Oct
+97,33082011698262,"Introduction to mediation, moderation, and conditional process analysis : a regression-based approach / Andrew F. Hayes.", Hayes Andrew F ,HA31.3 .H39 2013,Books,Book,0,,0,0,22-Nov,01-Oct
+98,33082009929927,"Games of strategy / Avinash Dixit, Susan Skeath.", Dixit Avinash K ,HB144 .D59 2004,Books,Book,0,,0,0,08-Nov,16-Sep
+99,33082011766135,"Africa's development in historical perspective / edited by Emmanuel Akyeampong (Harvard University), Robert H. Bates (Harvard University), Nathan Nunn (Harvard University), James A. Robinson (Harvard University).", Akyeampong Emmanuel Kwaku ,HC800 .A57255 2014,Books,Book,0,,0,0,21-Nov,01-Oct
+100,33082010327186,Dead aid : why aid is not working and how there is a better way for Africa / Dambisa Moyo., Moyo Dambisa ,HC800 .M69 2009,Books,Book,0,,0,0,08-Nov,16-Sep
+101,33082010256484,"Future savvy : identifying trends to make better decisions, manage uncertainty, and profit from change / Adam Gordon.", Gordon Adam ,HD30.27 .G67 2009,Books,Book,0,,0,0,22-Nov,01-Oct
+102,33082011563250,"Leading change / John P. Kotter, with a new preface by the author.", Kotter John P ,HD58.8 .K65 2012,Books,Book,0,,0,0,08-Nov,16-Sep
+103,33082011778767,"Zero to one : notes on startups, or how to build the future / Peter Thiel with Blake Masters.", Thiel Peter A ,HD62.5 .T525 2014,Books,Book,0,,0,0,08-Nov,16-Sep
+104,33082011070918,Shop class as soulcraft : an inquiry into the value of work / Matthew B. Crawford., Crawford Matthew B ,HD4824 .C73 2010,Books,Book,0,,0,0,08-Nov,16-Sep
+106,33082012526264,"Corporate ethics for turbulent markets : the market context of executive decisions / by Fr. Oswald A.J. Mascarenhas, S.J.", Mascarenhas Oswald A J ,HF5387 .M38 2018,Books,Book,0,,0,0,22-Nov,01-Oct
+108,33082000868777,Strategic marketing and the product life cycle / by Frederick D. Wiersema., Wiersema Frederik D  : Marketing Science Institute c,HF5415.155 .W53,Books,Book,0,,0,0,22-Nov,01-Oct
+109,33082011801254,Money : master the game : 7 simple steps to financial freedom / Tony Robbins., Robbins Anthony ,HG179 .R5455 2014,Books,Book,0,,0,0,22-Nov,01-Oct
+110,33082010147212,Finding the next Starbucks : how to identify and invest in the hot stocks of tomorrow / Michael Moe., Moe Michael ,HG4910 .M64 2006,Books,Book,0,,0,0,08-Nov,16-Sep
+111,33082011499562,The coming bond market collapse : how to survive the demise of the U.S. debt market / Michael G. Pento., Pento Michael G ,HG4910 .P426 2013,Books,Book,0,,0,0,08-Nov,16-Sep
+112,33082008081449,Modernity and self-identity : self and society in the late modern age / Anthony Giddens., Giddens Anthony ,HM131 .G398 1991,Books,Book,0,,0,0,21-Nov,01-Oct
+114,33082011701702,"Writing on the wall : social media, the first two thousand years / Tom Standage.", Standage Tom ,HM741 .S72 2013,Books,Book,0,,0,0,22-Nov,01-Oct
+115,33082010755097,Mapping Decline St. Louis and the Fate of the American City.,Book ,HN80.S2 G67 2009,Books,Book,0,,0,0,08-Nov,16-Sep
+116,33082012433388,"Nobody : casualties of America's war on the vulnerable, from Ferguson to Flint and beyond / Marc Lamont Hill.", Hill Marc Lamont ,HN90.S62 H55 2016,Books,Book,0,,0,0,22-Nov,01-Oct
+117,33082001198596,Western sexuality / edited by Philippe Aries and Andre Bejin ; translated by Anthony Forster., Ariès Philippe ,HQ12 .S4413 1985,Books,Book,0,,0,0,11-Dec,16-Nov
+118,33082008839192,Sexualities in history : a reader / edited by Kim M. Phillips and Barry Reay., Phillips Kim M ,HQ12 .S46 2002,Books,Book,0,,0,0,11-Dec,16-Nov
+119,33082009905448,Sexual morality in ancient Rome / Rebecca Langlands., Langlands Rebecca ,HQ13 .L36 2006,Books,Book,0,,0,0,11-Dec,16-Nov
+120,33082012448162,Controlling desires : sexuality in ancient Greece and Rome / Kirk Ormand., Ormand Kirk ,HQ13 .O76 2017,Books,Book,0,,0,0,11-Dec,16-Nov
+121,33082001163277,Sexual practices & the medieval church / Vern L. Bullough & James Brundage., Bullough Vern L ,HQ14 .B84 1982,Books,Book,0,,0,0,11-Dec,16-Nov
+123,33082012421961,"Queer Maghrebi French : language, temporalities, transfiliations / Denis M. Provencher.", Provencher Denis M ,HQ75.7 .P76 2017,Books,Book,0,,0,0,22-Nov,01-Oct
+124,33082003689972,Homosexuality and the Western Christian tradition / by Derrick Sherwin Bailey., Bailey Derrick Sherwin ,HQ76 .B3 1975,Books,Book,0,,0,0,11-Dec,16-Nov
+125,33082009870188,Greek homosexuality / K.J. Dover., Dover K J ,HQ76.3.G8 D68 1989,Books,Book,0,,0,0,11-Dec,16-Nov
+126,33082008232414,Homosexuality in Greece and Rome : a sourcebook of basic documents / edited by Thomas K. Hubbard., Hubbard Thomas K ,HQ76.3.G8 H66 2003,Books,Book,0,,0,0,11-Dec,16-Nov
+128,33082007189045,The Kama sutra of Vatsyayana : the classic Hindu treatise on love and social conduct / translated by Sir Richard F. Burton ; foreword by Santha Rama Rau ; introduction by John W. Spellman., Vātsyāyana ,HQ470.S3 V313 1991,Books,Book,0,,0,0,08-Nov,16-Sep
+129,33082001083780,Abortion and the politics of motherhood / Kristin Luker., Luker Kristin ,HQ767.5.U5 L84 1984,Books,Book,0,,0,0,08-Nov,16-Sep
+130,33082009004424,Giovanni and Lusanna : love and marriage in Renaissance Florence : with a new preface / Gene Brucker., Brucker Gene A ,HQ806 .B78 2005,Books,Book,0,,0,0,08-Nov,16-Sep
+133,33082012487285,"Feminist ethnography : thinking through methodologies, challenges, and possibilities / Dána-Ain Davis & Christa Craven.", Davis Dána-Ain ,HQ1190 .D385 2016,Books,Book,0,,0,0,22-Nov,01-Oct
+134,33082010838695,Half the sky : turning oppression into opportunity for women worldwide / Nicholas D. Kristof and Sheryl WuDunn., Kristof Nicholas D ,HQ1236.5.D44 K75 2009,Books,Book,3,,0,0,07-Nov,16-Sep
+135,33082007434862,Hooded Americanism : the history of the Ku Klux Klan / David M. Chalmers., Chalmers David Mark ,HS2330.K63 C5 1987,Books,Book,0,,0,0,07-Nov,16-Sep
+136,33082009330019,"Root shock : how tearing up city neighborhoods hurts America, and what we can do about it / Mindy Thompson Fullilove.", Fullilove Mindy Thompson ,HT123 .F79 2005,Books,Book,0,,0,0,08-Nov,16-Sep
+137,33082003247482,Garden cities of to-morrow. Edited with a pref. by F. J. Osborn. With an introductory essay by Lewis Mumford., Howard Ebenezer ,HT161 .H6 1965,Books,Book,2,,0,0,20-Nov,30-Sep
+138,33082008089053,Cities of tomorrow : an intellectual history of urban planning and design in the twentieth century / Peter Hall., Hall Peter ,HT166 .H349 2002,Books,Book,0,,0,0,20-Nov,30-Sep
+139,33082012296959,The death and life of great American cities / Jane Jacobs ; with a new foreword by the author., Jacobs Jane ,HT167 .J33 1993,Books,Book,0,,0,0,07-Dec,12-Nov
+140,33082006314602,"Urban planning and the African American community : in the shadows / June Manning Thomas, Marsha Ritzdorf, editors.", Thomas June Manning ,HT167 .U7277 1997,Books,Book,0,,0,0,08-Nov,16-Sep
+141,33082007558090,Redevelopment and race : planning a finer city in postwar Detroit / June Manning Thomas., Thomas June Manning ,HT177.D4 T56 1997,Books,Book,0,,0,0,08-Nov,16-Sep
+143,33082012460118,In the mind of a female serial killer / Stephen Jakobi., Jakobi Stephen ,HV6517 .J35 2017,Books,Book,0,,0,0,22-Nov,01-Oct
+144,33082008221961,"The hanging of Ephraim Wheeler : a story of rape, incest, and justice in early America / Irene Quenzler Brown, Richard D. Brown.", Brown Irene Quenzler ,HV6565.M4 B76 2003,Books,Book,0,,0,0,08-Nov,16-Sep
+146,33082012369673,College in prison : reading in an age of mass incarceration / Daniel Karpowitz., Karpowitz Daniel ,HV8888.3.U62 N75 2017,Books,Book,0,,0,0,08-Nov,16-Sep
+147,33082012413018,Inside private prisons : an American dilemma in the age of mass incarceration / Lauren-Brooke Eisen., Eisen Lauren-Brooke ,HV9469 .E57 2018,Books,Book,0,,0,0,08-Nov,16-Sep
+148,33082009468439,Private prisons in America : a critical race perspective / Michael A. Hallett., Hallett Michael A ,HV9469 .H256 2006,Books,Book,0,,0,0,08-Nov,16-Sep
+149,33082008864372,"Measuring prison performance : government privatization and accountability / Gerald G. Gaes, ... [et al.].", Gaes Gerald G ,HV9469 .M43 2004,Books,Book,0,,0,0,08-Nov,16-Sep
+150,33082005157507,"Private prisons and the public interest / Douglas C. McDonald, editor.", McDonald Douglas ,HV9469 .P75 1990,Books,Book,0,,0,0,08-Nov,16-Sep
+151,33082005250468,"Privatizing correctional institutions / edited by Gary W. Bowman, Simon Hakim, Paul Seidenstat ; with a foreword by Warren Burger.", Bowman Gary W ,HV9469 .P76 1993,Books,Book,0,,0,0,08-Nov,16-Sep
+152,33082010767191,"Punishment for sale : private prisons, big business, and the incarceration binge / Donna Selman and Paul Leighton.", Selman Donna ,HV9469 .S45 2010,Books,Book,0,,0,0,08-Nov,16-Sep
+153,33082005700538,Punishment for profit : private prisons/public concerns / David Shichor ; foreword by Gilbert Geis., Shichor David ,HV9469 .S55 1995,Books,Book,0,,0,0,08-Nov,16-Sep
+154,33082000718261,"The story of the political philosophers, by George Catlin...", Catlin George Edward Gordon ,JA81 .C3,Books,Book,0,,0,0,22-Nov,01-Oct
+157,33082012366448,Human rights or global capitalism : the limits of privatization / Manfred Nowak., Nowak Manfred ,JC571 .N67 2017,Books,Book,0,,0,0,08-Nov,16-Sep
+158,33082012592167,"The great broadening : how the vast expansion of the policy-making agenda transformed American politics / Bryan D. Jones, Sean M. Theriault, Michelle C. Whyman.", Jones Bryan D ,JK325 .J654 2019,Books,Book,0,,0,0,08-Nov,16-Sep
+159,33082012408653,The Trump phenomenon : how the politics of populism won in 2016 / by Peter Kivisto (Augustana College and St. Petersburg State University)., Kivisto Peter ,JK526 2016 .K58 2017,Books,Book,0,,0,0,08-Nov,16-Sep
+161,33082012362561,Duress : imperial durabilities in our times / Ann Laura Stoler., Stoler Ann Laura ,JV151 .S75 2016,Books,Book,0,,0,0,21-Nov,01-Oct
+162,33082010920592,Migra! : a history of the U.S. Border Patrol / Kelly Lytle Hernâandez., Hernandez Kelly Lytle ,JV6483 .H45 2010,Books,Book,0,,0,0,07-Nov,16-Sep
+163,33082012392063,In the name of women's rights : the rise of femonationalism / Sara R. Farris., Farris Sara R ,JV7590 .F368 2017,Books,Book,0,,0,0,21-Nov,01-Oct
+164,33082010109105,The political economy of grand strategy / Kevin Narizny., Narizny Kevin ,JZ1480 .N38 2007,Books,Book,0,,0,0,22-Nov,01-Oct
+165,33082009340950,"Faculty priorities reconsidered : rewarding multiple forms of scholarship / KerryAnn O'Meara, R. Eugene Rice ; foreword by Russell Edgerton.", O'Meara KerryAnn ,LA227.3 .O43 2005,Books,Book,0,,0,0,08-Nov,16-Sep
+168,33082010906450,Instructional rounds in education : a network approach to improving teaching and learning / Elizabeth A. City ... [et al.]., City Elizabeth A ,LB1032 .I493 2009,Books,Book,0,,0,0,21-Nov,01-Oct
+169,33082011550703,"Supervising practices for postgraduate research in art, architecture and design / edited by Brent Allpress ... [and others].", Allpress Brent ,LB2371 .S87 2012,Books,Book,0,,0,0,08-Nov,16-Sep
+170,33082011100798,The idea of the PhD : the doctorate in the twenty-first-century imagination / Frances Kelly., Kelly Frances ,LB2386 .K46 2017,Books,Book,0,,0,0,08-Nov,16-Sep
+171,33082012427133,"The new campus anti-rape movement : internet activism and social justice / Caroline Heldman, Alissa R. Ackerman, Ian Breckenridge-Jackson.", Heldman Caroline ,LB3610 .H45 2018,Books,Book,0,,0,0,22-Nov,01-Oct
+172,33082011056438,College student retention : formula for student success / [edited by] Alan Seidman., Seidman Alan ,LC148.2 .C65 2012,Books,Book,0,,0,0,08-Nov,16-Sep
+173,33082010887981,"The first-generation student experience : implications for campus practice, and strategies for improving persistence and success / Jeff Davis.", Davis Jeff ,LC148.2 .D38 2010,Books,Book,0,,0,0,08-Nov,16-Sep
+174,33082010769197,First in my family : a profile of first-generation college students at four-year institutions since 1971 / Victor B. Saenz ... [ et. al.] ; foreword by William E. Hamm & Michelle D. Gilliard., Saenz Victor B ,LC148.2 .F57 2007,Books,Book,0,,0,0,08-Nov,16-Sep
+175,33082012615596,"The structure of schooling : readings in the sociology of education / Richard Arum, New York University, Irenee R. Beattie, University of California, Merced, Karly Ford, Pennsylvania State University.", Arum Richard ,LC189 .S87 2021,Books,Book,0,,0,1,13-Dec,23-Nov
+177,33082009331702,"Challenging racism in higher education : promoting justice / Mark Chesler, Amanda Lewis, and James Crowfoot.", Chesler Mark A ,LC212.42 .C54 2005,Books,Book,0,,0,0,22-Nov,01-Oct
+178,33082011997318,Blackballed : the black and white politics of race on America's campuses / Lawrence Ross., Ross Lawrence C ,LC212.42 .R67 2016,Books,Book,0,,0,0,12-Nov,22-Sep
+179,33082011791224,"Yesterday, today, and tomorrow : school desegregation and resegregation in Charlotte / Roslyn Arlin Mickelson, Stephen Samuel Smith, Amy Hawn Nelson, editors.", Mickelson Roslyn Arlin ,LC212.523.C43 Y48 2015,Books,Book,0,,0,0,22-Nov,01-Oct
+180,33082010048477,"The trouble with Black boys : and other reflections on race, equity, and the future of public education / Pedro A. Noguera.", Noguera Pedro ,LC213.2 .N64 2008,Books,Book,0,,0,0,21-Nov,01-Oct
+183,33082009492389,Three cups of tea : one man's mission to fight terrorism and build nations-- one school at a time / Greg Mortenson and David Oliver Relin., Mortenson Greg ,LC2330 .M67 2006,Books,Book,0,,0,0,08-Nov,16-Sep
+184,33082009950063,Passing the torch : does higher education for the disadvantaged pay off across the generations? / Paul Attewell and David E. Lavin ; in collaboration with Thurston Domina and Tania Levey., Attewell Paul A ,LC4069.6 .A87 2007,Books,Book,0,,0,0,08-Nov,16-Sep
+185,33082012468624,"Clearing the path for first generation college students : qualitative and intersectional studies of educational mobility / edited by Ashley C. Rondini, Bedelia Nicola Richards, and Nicolas P. Simon ; afterword by Jenny Stuber.", Rondini Ashley C ,LC4069.6 .C65 2018,Books,Book,0,,0,0,08-Nov,16-Sep
+186,33082012591862,"First-generation college student research studies / [edited by] Terence Hicks, Douglas M. Butler, Mondrail Myrick.", Hicks Terence ,LC4069.6 .F57 2019,Books,Book,0,,0,0,08-Nov,16-Sep
+187,33082011047981,"Higher education and first-generation students : cultivating community, voice, and place for the new majority / Rashné Rustom Jehangir.", Jehangir Rashné Rustom ,LC4069.6 .J44 2010,Books,Book,0,,0,0,08-Nov,16-Sep
+188,33082004579891,"History of the University of Richmond, 1830-1971 / Reuben E. Alley.", Alley Reuben E ,LD4711.R42 A44,Books,Book,1,,0,0,08-Nov,16-Sep
+189,33082007993909,"Visualizing the nation : gender, representation, and revolution in eighteenth-century France / Joan B. Landes.", Landes Joan B ,N6846 .L344 2001,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
+190,33082010911328,Contemporary Chinese art : primary documents / edited by Wu Hung with the assistance of Peggy Wang., Wu Hung ,N7345 .C666 2010,Oversize Books,Book,0,,0,0,22-Nov,01-Oct
+191,33082010086451,"Built by Blacks : African American architecture and neighborhoods in Richmond / Selden Richardson ; editor and photographer, Maurice Duke.", Richardson Selden ,NA735.R5 R53 2008,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
+192,33082010788650,City building : nine planning principles for the twenty-first century / John Lund Kriken with Philip Enquist and Richard Rapaport., Kriken John Lund ,NA737.S53 K75 2010,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
+193,33082009903385,"Spaces of global cultures : architecture, urbanism, identity / Anthony D. King.", King Anthony D ,NA2543.G46 K55 2004,Oversize Books,Book,0,,0,0,20-Nov,30-Sep
+194,33082006623895,"A preliminary report on a capital expenditure program and administrative policy and practice / [consultants, Harland Bartholomew and Associates].", Harland Bartholomew & Associates ,NA9127.R5 H3 1944,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
+195,33082006623770,A preliminary report on a proposed civic center and the city's appearance ..., Harland Bartholomew & Associates ,NA9127.R5 H32 1944,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
+196,33082006623903,A preliminary report on housing conditions and policies ..., Harland Bartholomew & Associates ,NA9127.R5 H33 1943,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
+197,33082006623788,A preliminary report on land use and zoning ..., Harland Bartholomew & Associates ,NA9127.R5 H34 1942,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
+198,33082006623663,"A preliminary report on parks and schools / [consultants, Harland Bartholomew and Associates].", Harland Bartholomew & Associates ,NA9127.R5 H352 1944,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
+199,33082008173295,"A preliminary report on past, present and probable future population ...", Harland Bartholomew & Associates ,NA9127.R5 H355 1941,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
+200,33082006623598,A preliminary report on the background and character of the city ..., Harland Bartholomew & Associates ,NA9127.R5 H357 1941,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
+201,33082006623432,A preliminary report on transit facilities ..., Harland Bartholomew & Associates ,NA9127.R5 H372 1944,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
+202,33082006623556,A preliminary report on transportation facilities ..., Harland Bartholomew & Associates ,NA9127.R5 H375 1944,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
+203,33082006623424,The scope of the city plan ..., Harland Bartholomew & Associates ,NA9127.R5 H38 1941,Oversize Books,Book,2,,0,0,08-Nov,16-Sep
+205,33082011714408,"Art and appetite : American painting, culture, and cuisine / edited by Judith A. Barter ; with essays by Judith A. Barter, Annelise K. Madsen, Sarah Kelly Oehler, and Ellen E. Roberts.", Barter Judith A ,ND1460.F64 A66 2013,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
+206,33082006557523,"Scenic art for the theatre : history, tools, and techniques / Susan Crabtree and Peter Beudert.", Crabtree Susan ,ND2885 .C73 1998,Oversize Books,Book,0,,0,0,07-Nov,16-Sep
+207,33082007110371,In good hands : the women of the Canadian Handicrafts Guild / Ellen Easton McLeod., McLeod Ellen Mary Easton ,NK841 .M344 1999,Oversize Books,Book,0,,0,0,22-Nov,01-Oct
+208,33082008929571,"Sexuality and gender in early modern Europe : institutions, texts, images / edited by James Grantham Turner.", Turner James ,NX180.F4 S488 1995,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
+210,33082007543902,Visualizations : the nature book of art and science / Martin Kemp., Kemp Martin ,NX180.S3 K46 2000,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
+211,33082012529615,"Straight talk about communication research methods / Christine S. Davis, Kenneth A. Lachlan, with contributor Robert Westerfelhaus.", Davis Christine S ,P91 .D367 2017,Books,Book,0,,0,0,21-Nov,01-Oct
+212,33082011815346,The marvelous clouds : toward a philosophy of elemental media / John Durham Peters., Peters John Durham ,P91 .P48 2015,Books,Book,0,,0,0,21-Nov,01-Oct
+213,33082011441960,Beautiful evidence / Edward R. Tufte., Tufte Edward R ,P93.5 .T837 2006,Books,Book,0,,0,0,07-Dec,12-Nov
+214,33082012521562,"Meander, spiral, explode : design and pattern in narrative / Jane Alison.", Alison Jane ,P302.7 .A515 2019,Books,Book,0,,0,0,22-Nov,01-Oct
+215,33082011656401,Huellas de las literaturas hispanoamericanas / John F. Garganigo ... [and others]., Garganigo John F ,PC4117 .H84 2002,Books,Book,0,,0,0,07-Nov,16-Sep
+217,33082009480079,Novel with cocaine / M. Ageyev ; translated by Michael Henry Heim., Agi͡eev M ,PG3476.A3164 R613 1998,Books,Book,0,,0,0,08-Nov,16-Sep
+219,33082008112749,Pushkin's children : writings on Russia and Russians / Tatyana Tolstaya ; translated by Jamey Gambrell ; [introduction by Alma Guillermoprieto]., Tolstai͡a Tatʹi͡ana ,PG3476.T58 A24 2003,Books,Book,0,,0,0,08-Nov,16-Sep
+220,33082008165911,The slynx / Tatyana Tolstaya ; translated by Jamey Gambrell., Tolstai͡a Tatʹi͡ana ,PG3476.T58 K9713 2003,Books,Book,1,,0,0,08-Nov,16-Sep
+222,33082003777199,The carnal prayer mat (Rou putuan) / Li Yu ; translated with an introduction and notes by Patrick Hanan., Li Yu ,PL2698.L52 J613 1990,Books,Book,0,,0,0,08-Nov,16-Sep
+223,33082012605894,"Character : three inquiries in literary studies / Amanda Anderson, Rita Felski, Toril Moi.", Anderson Amanda ,PN56.4 .C48 2019,Books,Book,0,,0,0,21-Nov,01-Oct
+225,33082010002714,"Electronic textual editing / edited by Lou Burnard, Katherine O'Brien O'Keeffe, and John Unsworth.", Burnard Lou ,PN162 .E55 2006,Books,Book,0,,0,0,08-Nov,16-Sep
+226,33082009014027,From dissertation to book / William Germano., Germano William P ,PN162 .G37 2005,Books,Book,0,,0,0,08-Nov,16-Sep
+227,33082001441665,Scholarly editing in the computer age : theory and practice / Peter L. Shillingsburg., Shillingsburg Peter L ,PN162 .S45 1986,Books,Book,0,,0,0,08-Nov,16-Sep
+228,33082012420716,"What editors do : the art, craft, and business of book editing / edited by Peter Ginna.", Ginna Peter ,PN162 .W465 2017,Books,Book,0,,0,0,08-Nov,16-Sep
+230,33082009341602,"The rhetorical tradition : readings from classical times to the present / edited by Patricia Bizzell, Bruce Herzberg.", Bizzell Patricia ,PN183 .R46 2001,Books,Book,0,,0,0,08-Nov,16-Sep
+231,33082010176484,"The world within : writers talk ambition, angst, aesthetics, bones, books, beautiful bodies, censorship, cheats, comics, darkness, democracy, death, exile, failure, guns, misery, muses, movies, old boys' network, Oprah, outcasts, sex, suicide, smoking, strippers, torture, Vietnam, VD, violence, and more.",Book ,PN452 .W67 2007,Books,Book,0,,0,0,08-Nov,16-Sep
+232,33082011001590,Film in the Middle East and North Africa : creative dissidence / edited by Josef Gugler., Gugler Josef ,PN1993.5.M53 F55 2011,Books,Book,0,,0,0,22-Nov,01-Oct
+233,33082011929154,Embodied cognition and cinema / edited by Maarten Coëgnarts and Peter Kravanja ; with a foreword by Mark Johnson., Coëgnarts Maarten ,PN1995 .E628 2015,Books,Book,0,,0,0,22-Nov,01-Oct
+234,33082011914651,"Free radicals [videorecording] : a history of experimental film / Sacrebleu Productions presents ; written by Pip Chodorov, Lucy Allwood ; produced by Ron Dyens, Aurélia Prévieu ; a Pip Chodorov film.",Visual material By Chodorov Pip ,PN1995.9.E96 F744 2012,DVDs,Other,0,,0,0,21-Nov,01-Oct
+235,33082012313911,"The magic box : the films of Shirley Clarke, 1929-1987 / producers, Dennis Doros and Amy Heller.",Visual material By Clarke Shirley  : Milestone Film & Video ,PN1995.9.E96 M34 2016,DVDs,Other,0,,0,0,21-Nov,01-Oct
+236,33082010201571,Blade runner [videorecording] / a Ladd Company released in association with Sir Run Run Shaw thru Warner Bros. ; Jerry Perenchio and Bud Yorkin present a Michael Deeley-Ridley Scott production ; produced by Michael Deeley ; screenplay by Hampton Fancher and David Peoples ; directed by Ridley Scott.,Visual material By Fancher Hampton ,PN1995.9.S26 B5335 2007,DVDs,Other,0,,0,0,27-Nov,08-Oct
+237,33082010946787,Casino [videorecording]/ Universal Pictures and Syalis D.A. & Légende Entreprises present ; a De Fina/Cappa production ; screenplay by Nicholas Pileggi & Martin Scorsese ; produced by Barbara De Fina ; directed by Martin Scorsese.,Visual material By Scorsese Martin ,PN1995.9.S87 C28 1998,DVDs,Other,0,,0,0,27-Nov,08-Oct
+239,33082007912693,"Iris [videorecording] / Miramax Films, BBC Films, Intermedia Films present a Mirage Enterprises, Robert Fox/Scott Rudin production of a Richard Eyre film ; producers, Robert Fox, Scott Rudin ; writers, Richard Eyre, Charles Wood ; director, Richard Eyre.",Visual material By Fox Robert ,PN1997 .I7393 2002,DVDs,Other,0,,0,0,11-Dec,19-Nov
+240,33082012590922,Political dramaturgies and theatre spectatorship : provocations for change / Liz Tomlin., Tomlin Liz ,PN2049 .T62 2019,Books,Book,0,,0,0,22-Nov,01-Oct
+241,33082005936934,Acting without agony : an alternative to the Method / Don Richardson ; with a foreword by Helen Hayes., Richardson Don ,PN2061 .R48 1994,Books,Book,0,,0,0,07-Nov,16-Sep
+242,33082010874971,The great acting teachers and their methods / by Richard Brestoff ; illustrations by Deborah Stevenson., Brestoff Richard ,PN2075 .B674 1995,Books,Book,0,v. 2,0,0,21-Nov,01-Oct
+243,33082011060505,The great acting teachers and their methods / by Richard Brestoff ; illustrations by Deborah Stevenson., Brestoff Richard ,PN2075 .B674 1995,Books,Book,0,v. 1,0,0,21-Nov,01-Oct
+244,33082012447156,Latinx theater in the times of neoliberalism / Patricia A. Ybarra., Ybarra Patricia A ,PN2270.H57 Y37 2018,Books,Book,0,,0,0,22-Nov,01-Oct
+247,33082009951137,Crosscurrents : transatlantic perspectives on early modern Hispanic drama / edited by Mindy Badía and Bonnie L. Gasior., Badía Mindy  : Bucknell University Press c,PQ7082.D7 C76 2006,Books,Book,0,,0,0,21-Nov,01-Oct
+249,33082006620115,"Fallenness in Victorian women's writing : marry, stitch, die, or do worse / Deborah Anna Logan.", Logan Deborah Anna ,PR115 .L64 1998,Books,Book,0,,0,0,22-Nov,01-Oct
+251,33082012281282,"A midsummer night's dream : an authoritative text, sources, criticism, adaptations / William Shakespeare ; edited by Grace Ioppolo.", Shakespeare William ,PR2827.A2 I6 2018,Books,Book,0,,0,0,08-Nov,16-Sep
+255,33082000937630,"Jane Austen, feminism and fiction / Margaret Kirkham.", Kirkham Margaret ,PR4038.F44 K57 1983,Books,Book,0,,0,0,08-Nov,16-Sep
+256,33082004952577,"Alice's adventures in Wonderland and Through the looking glass : nonsense, sense, and meaning / Donald Rackin.", Rackin Donald ,PR4611.A73 R34 1991,Books,Book,0,,0,0,08-Nov,16-Sep
+257,33082006193949,"Murdering to dissect : grave-robbing, Frankenstein and the anatomy literature / Tim Marshall.", Marshall Tim ,PR5397.F73 M35 1995,Books,Book,0,,0,0,21-Nov,01-Oct
+258,33082005262984,Rebecca / Daphne du Maurier., Du Maurier Daphne ,PR6007.U47 R43 1993,Books,Book,0,,0,0,08-Nov,16-Sep
+259,33082006493000,"Howards End : authoritative text, textual appendix, backgrounds and contexts, criticism / E.M. Forster ; edited by Paul B. Armstrong.", Forster E M ,PR6011.O58 H6 1998,Books,Book,0,,0,0,08-Nov,16-Sep
+260,33082000952514,Selected plays of Lennox Robinson / chosen and with an introduction by Christopher Murray., Robinson Lennox ,PR6035.O56 A6 1982,Books,Book,0,,0,0,08-Nov,16-Sep
+261,33082011484374,"The hobbit, or, There and back again / J.R.R. Tolkien.", Tolkien J R R ,PR6039.O32 H6 2012,Books,Book,0,,0,0,08-Nov,16-Sep
+262,33082009406801,Memories of ice / Steven Erikson., Erikson Steven ,PR9199.4.E745 M46 2005,Books,Book,0,,0,0,22-Nov,01-Oct
+263,33082011915344,Apocalyptic sentimentalism : love and fear in U.S. antebellum literature / Kevin Pelletier., Pelletier Kevin ,PS217.S55 P45 2015,Books,Book,0,,0,0,06-Dec,10-Nov
+264,33082012000344,"Writing our way out : memoirs from jail / David Coogan wih Kelvin Belton, Karl Black, Stanley Craddock, Ronald Fountain, Bradley Greene, Tony Martin, Naji Mujahid, Terence Scruggs, Andre Simpson, [and] Dean Turner.", Coogan David  : Brandylane Publishers Inc ; ,PS508.P7 W755 2016,Books,Book,0,,0,0,06-Dec,19-Oct
+265,33082010408408,Satellite convulsions : poems from Tin house.,Book ,PS617 .S28 2008,Books,Book,0,,0,0,08-Nov,16-Sep
+266,33082002224052,Futurelove : a science fiction triad / introd. by Gordon R. Dickson., Dickson Gordon R ,PS648.S3 F8x,Books,Book,0,,0,0,07-Dec,12-Nov
+267,33082010937513,"McSweeney's 23 : still going strong like Castro / editor, Dave Eggers.", Eggers Dave  : McSweeney's Quarterly Concern c,PS648.S5 M78 no. 23,Books,Book,0,,0,0,22-Nov,01-Oct
+268,33082006210701,"Edgar Allan Poe [videorecording]/ featuring Professor Elliot Engel ; Media Consultants, Inc.",Visual material By Engel Elliot ,PS2631 .E43 1996,VHS,Other,0,,0,0,07-Dec,12-Nov
+269,33082005350110,"Edgar Allan Poe [videorecording]: architect of dreams / writer, producer, director, Jean M. Mudge.",Visual material By Poe Edgar Allan ,PS2631 .E44 1991,VHS,Other,0,,0,0,07-Dec,12-Nov
+270,33082007018145,Edgar Allan Poe [videorecording]: terror of the soul : a film / by Karen Thomas ; produced by Film Odyssey.,Visual material By Poe Edgar Allan  : PBS Video c,PS2631 .E46 1995,VHS,Other,0,,0,0,07-Dec,12-Nov
+271,33082005650907,Don't bother to knock [videorecording]/ Twentieth Century Fox ; directed by Roy Baker ; screen play by Daniel Taradash ; produced by Julian Blaustein.,Visual material By Monroe Marilyn ,PS3501.R566 M572 1992,VHS,Other,0,,0,0,07-Dec,12-Nov
+277,33082001827178,"The Basil and Josephine stories, by F. Scott Fitzgerald. Edited with an introd. by Jackson R. Bryer and John Kuehl.", Fitzgerald F Scott ,PS3511.I9 B3x,Books,Book,0,,0,0,08-Nov,16-Sep
+278,33082009827030,"Pale horse, pale rider : three short novels / Katherine Anne Porter.", Porter Katherine Anne ,PS3531.O752 P3 1964,Books,Book,0,,0,0,08-Nov,16-Sep
+279,33082012427042,Atlas shrugged / Ayn Rand., Rand Ayn ,PS3535.A547 A94 2005,Books,Book,0,,0,0,08-Nov,16-Sep
+280,33082008776428,The annotated Charlotte's web / introduction and notes by Peter F. Neumeyer. Charlotte's web ; by E.B. White ; pictures by Garth Williams., Neumeyer Peter F ,PS3545.H5187 C536 1994,Books,Book,0,,0,0,08-Nov,16-Sep
+281,33082006020662,Mahabharata / by William Buck ; with an introduction by B.A. van Nooten ; illustrated by Shirley Triest., Buck William ,PS3552.U335 M3 1981,Books,Book,0,,0,0,08-Nov,16-Sep
+282,33082011966206,Loitering : new & collected essays / Charles D'Ambrosio., D'Ambrosio Charles ,PS3554.A469 A6 2014,Books,Book,0,,0,0,08-Nov,16-Sep
+283,33082011865044,The brief wondrous life of Oscar Wao / Junot Díaz., Díaz Junot ,PS3554.I259 B75 2007,Books,Book,0,,0,0,08-Nov,16-Sep
+284,33082011962932,How to be drawn / Terrance Hayes., Hayes Terrance ,PS3558.A8378 A6 2015,Books,Book,0,,0,0,06-Dec,05-Nov
+285,33082012430764,American sonnets for my past and future assassin / Terrance Hayes., Hayes Terrance ,PS3558.A8378 A6 2018,Books,Book,0,,0,0,06-Dec,05-Nov
+286,33082005249221,Negrophobia : an urban parable / Darius James., James Darius ,PS3560.A37887 N4 1993,Books,Book,0,,0,0,08-Nov,16-Sep
+288,33082005351761,Oleanna / David Mamet., Mamet David ,PS3563.A4345 O4 1993,Books,Book,0,,0,0,04-Dec,14-Oct
+289,33082009417584,The road / Cormac McCarthy., McCarthy Cormac ,PS3563.C337 R63 2006,Books,Book,0,,0,0,08-Nov,16-Sep
+291,33082011093225,"Novels & stories 1950-1962 / Kurt Vonnegut ; Sidney Offit, editor.", Vonnegut Kurt ,PS3572.O5 A6 2012,Books,Book,0,,0,0,08-Nov,16-Sep
+292,33082006392541,Timequake / Kurt Vonnegut., Vonnegut Kurt ,PS3572.O5 T56 1997,Books,Book,0,,0,0,07-Nov,16-Sep
+293,33082001605483,Conversations with Kurt Vonnegut / edited by William Rodney Allen., Vonnegut Kurt ,PS3572.O5 Z463 1988,Books,Book,0,,0,0,07-Nov,16-Sep
+294,33082011529442,Kurt Vonnegut : letters / edited and with an introduction by Dan Wakefield., Vonnegut Kurt ,PS3572.O5 Z48 2012,Books,Book,0,,0,0,07-Nov,16-Sep
+295,33082010927175,The windup girl / Paolo Bacigalupi., Bacigalupi Paolo ,PS3602.A3473 W56 2009,Books,Book,0,,0,0,21-Nov,01-Oct
+296,33082012466479,Here I am : a novel / Jonathan Safran Foer., Foer Jonathan Safran ,PS3606.O38 H47 2017,Books,Book,0,,0,0,08-Nov,16-Sep
+297,33082012540851,The river : a novel / by Peter Heller., Heller Peter ,PS3608.E454 R58 2019,Books,Book,0,,0,0,21-Nov,01-Oct
+298,33082011724639,The compleat purge / Trisha Low., Low Trisha  : Kenning Editions ,PS3612.O88 C66 2013,Books,Book,0,,0,0,08-Nov,16-Sep
+299,33082010794831,Call it what you want / Keith Lee Morris., Morris Keith Lee ,PS3613.O7735 C36 2010,Books,Book,0,,0,0,08-Nov,16-Sep
+300,33082012407051,There are more beautiful things than Beyoncé / Morgan Parker., Parker Morgan ,PS3616.A74547 A6 2017,Books,Book,0,,0,0,08-Nov,16-Sep
+301,33082001543304,Otherwise known as Sheila the Great., Blume Judy ,PZ7.B6265 Ot,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
+302,33082009408872,Diary of a worm / by Doreen Cronin ; pictures by Harry Bliss., Cronin Doreen ,PZ7.C88135 Di 2003,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
+305,33082012296520,"Everything, everything / Nicola Yoon ; illustrations by David Yoon.", Yoon Nicola ,PZ7.1.Y66 Ev 2015,Oversize Books,Book,0,,0,0,07-Nov,16-Sep
+306,33082003249793,"The lion, the witch and the wardrobe; a story for children. Illustrated by Pauline Baynes.", Lewis C S  tp ,PZ8.L48 Li,Oversize Books,Book,1,,0,0,07-Nov,16-Sep
+307,33082006679731,"The Lorax, by Dr. Seuss.", Seuss ,PZ8.3.G276 Lo,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
+308,33082008709072,The man who walked between the towers / Mordicai Gerstein., Gerstein Mordicai ,PZ9.5.P44 G47 2003,Oversize Books,Book,0,,0,0,08-Nov,16-Sep
+310,33082012420039,Becoming Steve Jobs : the evolution of a reckless upstart into a visionary leader / Brent Schlender and Rick Tetzeli., Schlender Brent ,QA76.2.J63 S35 2016,Books,Book,0,,0,0,08-Nov,16-Sep
+311,33082012539382,Python basics : a self-teaching introduction / H. Bhasin., Bhasin Harsh ,QA76.73.P98 B43 2019,Books,Book,0,,0,0,07-Dec,12-Nov
+312,33082003249108,Graphs and their uses / by Oysten Ore., Ore Øystein ,QA90 .O64 1990,Books,Book,0,,0,0,07-Dec,12-Nov
+313,33082001711323,Envisioning information / Edward R. Tufte., Tufte Edward R  : Graphics Press c,QA90 .T8 1990,Books,Book,0,,0,0,07-Dec,12-Nov
+315,33082012341235,"An introduction to statistical learning : with applications in R / Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani.", James Gareth ,QA276 .I585 2013,Books,Book,0,,0,1,22-Nov,01-Oct
+316,33082000996818,The visual display of quantitative information / Edward R. Tufte., Tufte Edward R  : Graphics Press c,QA276.3 .T8x,Books,Book,0,,0,0,06-Dec,09-Nov
+319,33082012378377,"Bayesian nonparametric data analysis / Peter Müller, Fernando Andréa Quintana, Alejandro Jara, Tim Hanson.", Müller Peter ,QA279.5 .B3888 2015,Books,Book,0,,0,0,22-Nov,01-Oct
+321,33082003942033,Planets beyond : discovering the outer solar system / Mark Littmann., Littmann Mark ,QB681 .L58 1988,Books,Book,0,,0,0,08-Nov,16-Sep
+322,33082012551577,"Chemistry : atoms first / Julia Burdge, College of Western Idaho, Jason Overby, College of Charleston.", Burdge Julia ,QD31.3 .B87 2018,Books,Book,0,,0,0,22-Nov,01-Oct
+323,33082011452728,"The epigenetics revolution : how modern biology is rewriting our understanding of genetics, disease, and inheritance / Nessa Carey.", Carey Nessa ,QH450 .C37 2012,Books,Book,1,,0,0,08-Nov,16-Sep
+324,33082011801403,"Molecular biology of the gene / James D. Watson, Cold Spring Harbor Laboratory, Tania A. Baker, Massachusetts Institute of Technology, Stephen P. Bell, Massachusetts Institute of Technology, Alexander Gann, Cold Spring Harbor Laboratory, Michael Levine, University of California, Berkeley, Richard Losik, Harvard University.", Watson James D ,QH506 .M6627 2014,Books,Book,0,,0,0,22-Nov,01-Oct
+325,33082012392667,"Biological timekeeping : clocks, rhythms and behaviour / Vinod Kumar, editor.", Kumar Vinod ,QH527 .B54 2017,Books,Book,0,,0,0,22-Nov,01-Oct
+326,33082012571658,"Animaladies : gender, animals, and madness / edited by Lori Gruen and Fiona Probyn-Rapsey.", Gruen Lori ,QL85 .A5213 2019,Books,Book,0,,0,0,07-Nov,16-Sep
+327,33082008960030,Nature's body : gender in the making of modern science / Londa Schiebinger., Schiebinger Londa L ,QP81.5 .S35 2004,Books,Book,0,,0,0,08-Nov,16-Sep
+328,33082006361249,The body's edge : our cultural obsession with skin / Marc Lappe., Lappé Marc ,QP88.5 .L37 1996,Books,Book,0,,0,0,08-Nov,16-Sep
+332,33082008950957,Chemistry and biology of Hyaluronan / edited by Hari G. Garg and Charles A. Hales., Garg Hari G ,QP702.H8 C44 2004,Books,Book,0,,0,0,21-Nov,01-Oct
+333,33082011937546,"Black man in a white coat : a doctor's reflections on race and medicine / Damon Tweedy, M.D.", Tweedy Damon ,R154.T84 A3 2015,Books,Book,0,,0,0,12-Nov,22-Sep
+335,33082001926541,Sexual visions : images of gender in science and medicine between the eighteenth and twentieth centuries / Ludmilla Jordanova., Jordanova L J ,R723 .J628 1989,Books,Book,0,,0,0,08-Nov,16-Sep
+336,33082011777223,Being mortal : medicine and what matters in the end / Atul Gawande., Gawande Atul ,R726.8 .G39 2014,Books,Book,0,,0,0,08-Nov,16-Sep
+337,33082010408648,The checklist manifesto : how to get things right / Atul Gawande., Gawande Atul ,RA399.A1 G39 2010,Books,Book,0,,0,0,08-Nov,16-Sep
+338,33082012542402,"Public health 101 : improving community health / Richard Riegelman, Brenda Kirkwood.", Riegelman Richard K ,RA425 .R54 2019,Books,Book,0,,0,0,22-Nov,01-Oct
+339,33082010765138,Children and pollution : why scientists disagree / Colleen F. Moore., Moore Colleen F ,RA1225 .M667 2009,Books,Book,0,,0,0,08-Nov,16-Sep
+340,33082005908404,"Raising children toxic free : how to keep your child safe from lead, asbestos, pesticides, and other environmental hazards / Herbert L. Needleman and Philip J. Landrigan ; with a foreword by T. Berry Brazelton.", Needleman Herbert L ,RA1225 .N44 1994,Books,Book,0,,0,0,08-Nov,16-Sep
+342,33082011802617,Contemporary behavior therapy / Michael D. Spiegler., Spiegler Michael D ,RC489.B4 S68 2016,Books,Book,0,,0,0,22-Nov,01-Oct
+343,33082011960043,"The body keeps the score : brain, mind, and body in the healing of trauma / Bessel A. van der Kolk, M.D.", Van der Kolk Bessel A ,RC552.P67 V358 2015,Books,Book,0,,0,0,21-Nov,01-Oct
+344,33082011775748,Blood work : a tale of medicine and murder in the scientific revolution / Holly Tucker., Tucker Holly ,RM171 .T787 2012,Books,Book,0,,0,0,08-Nov,16-Sep
+345,33082011702486,"Intuitive eating / Evelyn Tribole, Elyse Resch.", Tribole Evelyn ,RM222.2 .T717 2012,Books,Book,0,,0,0,22-Nov,01-Oct
+346,33082011808309,Concise computer vision : an introduction into theory and algorithms / Reinhard Klette., Klette Reinhard ,TA1634 .K54 2014,Books,Book,0,,0,0,22-Nov,01-Oct
+347,33082006613904,"Visions of modernity : representation, memory, time and space in the age of the camera / Scott McQuire.", McQuire Scott ,TR183 .M8 1998,Oversize Books,Book,0,,0,0,21-Nov,01-Oct
+348,33082010379971,Fashionable clothing from the Sears catalogs : late 1950s / Joy Shih., Shih Joy ,TT555 .S55 1997,Books,Book,0,,0,0,07-Nov,16-Sep
+349,33082010380037,Fashionable clothing from the Sears catalogs : mid 1950s / Tina Skinner., Skinner Tina ,TT555 .S55 2002,Books,Book,0,,0,0,07-Nov,16-Sep
+350,33082010381969,Fashionable clothing from the Sears catalogs : early 1950s / Desire Smith., Smith Desire ,TT555 .S62 1998,Books,Book,0,,0,0,08-Nov,16-Sep
+352,33082005551501,The newsletter handbook : how to write and publish newsletters / Wesley Dorsheimer., Dorsheimer Wesley ,Z286.N46 D67 1993,Books,Book,0,,0,0,08-Nov,16-Sep
+353,33082006800527,"Readers and writers in Cuba : a social history of print culture, 1830s-1990s / Pamela Maria Smorkaloff.", Smorkaloff Pamela María ,Z515.3.C9 S6613 1997,Books,Book,0,,0,0,22-Nov,01-Oct
+355,33082012284047,Caged in Winter, Walsh Brighton ,F,Recreational Reading,Book,0,,0,0,07-Nov,16-Sep
+356,33082012492483,Death of a She Devil, Weldon Fay ,F,Recreational Reading,Book,0,,0,0,07-Nov,16-Sep
